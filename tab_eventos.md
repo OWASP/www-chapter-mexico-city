@@ -133,7 +133,3 @@ Próximamente ...</p></td>
 </tr>
 </tbody>
 </table>
-
-lala | lele
----- | ----
-dada | sasa
