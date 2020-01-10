@@ -1,5 +1,5 @@
 ---
-title: lala
+title: Eventos Pasados
 layout:  null
 tab: true
 order: 1
