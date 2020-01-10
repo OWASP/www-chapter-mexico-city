@@ -14,7 +14,7 @@ Put whatever you like here: news, screenshots, features, supporters, or remove t
 title: lalala
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: example-tag
 ---
 
