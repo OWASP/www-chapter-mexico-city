@@ -8,8 +8,4 @@ tags: eventos-tag
 
 # Eventos
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
-columna1|columna2
---------|--------
-uno|dos
-3|4
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all. #Texto1 
