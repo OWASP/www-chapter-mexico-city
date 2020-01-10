@@ -105,7 +105,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
  <hr>
 <tbody><tr>
 <td> </td>
-<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" class="image"><img alt="Owasp Latam Tour 2019 v1 Logo.jpg" src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" class="thumbimage" srcset="/images/thumb/4/46/Owasp_Latam_Tour_2019_v1_Logo.jpg/600px-Owasp_Latam_Tour_2019_v1_Logo.jpg 1.5x, https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+<td><img src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" >
 </td></tr>
 <tr>
 <td><b>Fecha</b> </td>
