@@ -130,9 +130,57 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 </p>
 
+<h2>Social</h2>
+  <hr>
+  <br>
 
-
-
+A continuación ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
+<br>
+<a href="http://www.twitter.com/OWASP_MX_City" rel="nofollow"><img alt="Follow-us-on-twitter.png" src="/images/thumb/3/3d/Follow-us-on-twitter.png/180px-Follow-us-on-twitter.png" width="180" height="54" srcset="/images/thumb/3/3d/Follow-us-on-twitter.png/270px-Follow-us-on-twitter.png 1.5x, /images/thumb/3/3d/Follow-us-on-twitter.png/360px-Follow-us-on-twitter.png 2x"></a>
+<br>
+<h2>Soporte y donaciones</h2>
+<hr>
+<br>
+Si deseas colaborar en los esfuerzos del capítulo OWASP Ciudad de México, puedes hacerlo de las siguientes maneras:<br>
+<ul>
+  <li>Formando parte de nuestra lista de distribución.</li>
+  <li>Participando en nuestros eventos y promoviendo el capítulo.</li>
+  <li>Contribuyendo en la generación de contenido para eventos.</li>
+  <li>Como Patrocinador.</li>
+  <li>Como Expositor.</li>
+  <li>Realizando donaciones.</li>
+</ul>
+<br>
+<h2>Equipo de trabajo</h2>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+       <th colspan="4">Líder del capítulo</th>
+    </tr>
+    <tr>
+      <td colspan="4">Carlos Isaac Sagrero Campos<br><a rel="nofollow" class="external text" href="mailto:carlos.sagrero@owasp.org">Contacto</a></td>
+    </tr>
+    <tr>
+      <th style="width: 50%;" colspan="2">Administrador de eventos y conferencias</th>
+      <th style="width: 50%;" colspan="2">Administrador de medios sociales</th>
+    </tr>
+    <tr>
+      <td style="width: 50%;" colspan="2">Daniel Castrejón Morales<br><a rel="nofollow" class="external text" href="mailto:daniel.morales@owasp.org">Contacto</a>
+</td>
+<td style="width: 50%;" colspan="2">Juan Francisco Rojas Sánchez<br><a rel="nofollow" class="external text" href="mailto:juan.rojas@owasp.org">Contacto</a>
+</td></tr>
+<tr>
+<th style="width: 50%;" colspan="2">Administrador de contacto
+</th>
+<th style="width: 50%;" colspan="2">Administrador de contacto
+</th></tr>
+<tr>
+<td style="width: 50%;" colspan="2">Edgar Uch Flores<br><a rel="nofollow" class="external text" href="mailto:edgar.flores@owasp.org">Contacto</a>
+</td>
+<td style="width: 50%;" colspan="2">Hector Manuel Rojas Pérez<br><a rel="nofollow" class="external text" href="mailto:hector.rojas@owasp.org">Contacto</a>
+</td></tr></tbody></table>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
