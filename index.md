@@ -40,111 +40,41 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     <td><b>Fecha</b> </td>
     <td> 15 de marzo de 2019.</td>
   </tr>
-<tr>
-<td><b>Lugar</b> </td>
-<td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.
-</td></tr>
-<tr>
-<td><b>Talleres</b></td>
-<td>
-</td></tr>
-<tr>
-<td> </td>
-<td>
-<table>
-
-<tbody><tr>
-<td>8:00</td>
-<td><i>Más allá de un ' or 1=1</i></td>
-<td><b>Christian Alberto Cruz Nicolás</b>
-</td></tr>
-<tr>
-<td>10:00</td>
-<td><i>Mi inofensivo Cross-Site Scripting</i></td>
-<td><b>Héctor Manuel Rojas Pérez</b>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td><b>Conferencias</b></td>
-<td>
-</td></tr>
-<tr>
-<td> </td>
-<td>
-<table>
-
-<tbody><tr>
-<td>12:00</td>
-<td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
-<td><b>Antonio Rivera Crespo</b>
-</td></tr>
-<tr>
-<td>13:00</td>
-<td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
-<td><b>Carlos Isaac Sagrero Campos</b>
-</td></tr>
-<tr>
-<td>14:00</td>
-<td><i>Retos de la ingeniería inversa en seguridad</i></td>
-<td><b>Edgar Uch Flores</b>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td><b>Sitio Web</b> </td>
-<td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
-</td></tr></tbody></table>
-
-<table>
-
-<tbody><tr>
-<td style="font-size: 100%;">
-<h2><span class="mw-headline" id="Pr.C3.B3ximo_evento">Próximo evento</span></h2>
-<table>
-
-<tbody><tr>
-<td> </td>
-<td><a href="/index.php/File:Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" class="image"><img alt="Jornada seguridad UTN OWASP MEXICO CITY.jpg" src="/images/b/bf/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" width="570" height="220"></a>
-</td></tr>
-<tr>
-<td><b>Evento</b> </td>
-<td> Jornada de Seguridad Informática.
-</td></tr>
-<tr>
-<td><b>Fecha</b> </td>
-<td> 15 de marzo de 2019.
-</td></tr>
-<tr>
-<td><b>Lugar</b> </td>
-<td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.
-</td></tr>
-<tr>
-<td><b>Talleres</b></td>
-<td>
-</td></tr>
-<tr>
-<td> </td>
-<td>
-<table>
-
-<tbody><tr>
-<td>8:00</td>
-<td><i>Más allá de un ' or 1=1</i></td>
-<td><b>Christian Alberto Cruz Nicolás</b>
-</td></tr>
-<tr>
-<td>10:00</td>
-<td><i>Mi inofensivo Cross-Site Scripting</i></td>
-<td><b>Héctor Manuel Rojas Pérez</b>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td><b>Conferencias</b></td>
-<td>
-</td></tr>
-<tr>
-<td> </td>
-<td>
-<table>
+  <tr>
+    <td><b>Lugar</b> </td>
+    <td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.</td>
+  </tr>
+  <tr>
+    <td><b>Talleres</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>
+    <table>
+      <tbody>
+        <tr>
+          <td>8:00</td>
+          <td><i>Más allá de un ' or 1=1</i></td>
+          <td><b>Christian Alberto Cruz Nicolás</b></td>
+        </tr>
+        <tr>
+          <td>10:00</td> 
+          <td><i>Mi inofensivo Cross-Site Scripting</i></td>
+          <td><b>Héctor Manuel Rojas Pérez</b></td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+    </tr>
+    <tr>
+      <td><b>Conferencias</b></td>
+      <td></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>
+      <table>
 
 <tbody><tr>
 <td>12:00</td>
@@ -166,7 +96,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <td><b>Sitio Web</b> </td>
 <td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
 </td></tr></tbody></table>
-<h2><span class="mw-headline" id="Pr.C3.B3ximo_evento_2">Próximo evento</span></h2>
+
 <table>
 
  <h2>OWASP LatamTour 2019 (Cozumel).</h2>
