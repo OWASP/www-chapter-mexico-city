@@ -94,6 +94,112 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
 </td></tr></tbody></table>
 
+<table>
+
+<tbody><tr>
+<td style="font-size: 100%;">
+<h2><span class="mw-headline" id="Pr.C3.B3ximo_evento">Próximo evento</span></h2>
+<table>
+
+<tbody><tr>
+<td> </td>
+<td><a href="/index.php/File:Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" class="image"><img alt="Jornada seguridad UTN OWASP MEXICO CITY.jpg" src="/images/b/bf/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" width="570" height="220"></a>
+</td></tr>
+<tr>
+<td><b>Evento</b> </td>
+<td> Jornada de Seguridad Informática.
+</td></tr>
+<tr>
+<td><b>Fecha</b> </td>
+<td> 15 de marzo de 2019.
+</td></tr>
+<tr>
+<td><b>Lugar</b> </td>
+<td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.
+</td></tr>
+<tr>
+<td><b>Talleres</b></td>
+<td>
+</td></tr>
+<tr>
+<td> </td>
+<td>
+<table>
+
+<tbody><tr>
+<td>8:00</td>
+<td><i>Más allá de un ' or 1=1</i></td>
+<td><b>Christian Alberto Cruz Nicolás</b>
+</td></tr>
+<tr>
+<td>10:00</td>
+<td><i>Mi inofensivo Cross-Site Scripting</i></td>
+<td><b>Héctor Manuel Rojas Pérez</b>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><b>Conferencias</b></td>
+<td>
+</td></tr>
+<tr>
+<td> </td>
+<td>
+<table>
+
+<tbody><tr>
+<td>12:00</td>
+<td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
+<td><b>Antonio Rivera Crespo</b>
+</td></tr>
+<tr>
+<td>13:00</td>
+<td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
+<td><b>Carlos Isaac Sagrero Campos</b>
+</td></tr>
+<tr>
+<td>14:00</td>
+<td><i>Retos de la ingeniería inversa en seguridad</i></td>
+<td><b>Edgar Uch Flores</b>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><b>Sitio Web</b> </td>
+<td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Pr.C3.B3ximo_evento_2">Próximo evento</span></h2>
+<table>
+
+ <h2>OWASP LatamTour 2019 (Cozumel).</h2>
+ <br>
+ <hr>
+<tbody><tr>
+<td> </td>
+<td><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" class="image"><img alt="Owasp Latam Tour 2019 v1 Logo.jpg" src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" class="thumbimage" srcset="/images/thumb/4/46/Owasp_Latam_Tour_2019_v1_Logo.jpg/600px-Owasp_Latam_Tour_2019_v1_Logo.jpg 1.5x, https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" class="internal" title="Enlarge"></a></div></div></div></div></div>
+</td></tr>
+<tr>
+<td><b>Fecha</b> </td>
+<td> 3 y 4 de mayo de 2019.
+</td></tr>
+<tr>
+<td><b>Lugar</b> </td>
+<td>  Centro de Convenciones de Cozumel, en Isla de Cozumel, Quintana Roo, Mexico.
+</td></tr>
+<tr>
+<td><b>Sitio Web</b> </td>
+<td> <a rel="nofollow" class="external free" href="https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019">https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019</a>
+</td></tr>
+<tr>
+<td><b>Registro</b></td>
+<td> La entrada a las conferencias es gratuita con previo registro. <a rel="nofollow" class="external text" href="https://www.eventbrite.com/e/owasp-latam-tour-2019-mexico-tickets-55739358923">REGISTRATE AQUÍ</a>
+</td></tr></tbody></table>
+<p>Hola comunidad de OWASP Capítulo Ciudad de México, les informamos que ya se ha iniciado la publicación de parte de la agenda para <b>OWASP LATAM TOUR 2019 México</b>, visten la siguiente liga para más información <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/LatamTour2019#tab=M_C3_89XICO">LatamTour2019 - México</a>
+</p><p>Les hacemos una cordial invitación al OWASP LatamTour 2019 - Cozumel, para más información por favor sigan la siguiente cuenta de twitter:
+<a rel="nofollow" class="external text" href="https://twitter.com/owasp_riviera?lang=es">OWASP Rivera Maya</a>
+<br>
+<br>
+Próximamente ...
+</p>
+</td></tr></tbody></table>
 
 
 
