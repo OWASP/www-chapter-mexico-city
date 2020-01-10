@@ -155,6 +155,7 @@ Si deseas colaborar en los esfuerzos del capítulo OWASP Ciudad de México, pued
 <hr>
 <br>
 <table>
+  <center>
   <tbody>
     <tr>
        <th colspan="4">Líder del capítulo</th>
@@ -180,7 +181,7 @@ Si deseas colaborar en los esfuerzos del capítulo OWASP Ciudad de México, pued
 <td style="width: 50%;" colspan="2">Edgar Uch Flores<br><a rel="nofollow" class="external text" href="mailto:edgar.flores@owasp.org">Contacto</a>
 </td>
 <td style="width: 50%;" colspan="2">Hector Manuel Rojas Pérez<br><a rel="nofollow" class="external text" href="mailto:hector.rojas@owasp.org">Contacto</a>
-</td></tr></tbody></table>
+</td></tr></tbody></center></table>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
