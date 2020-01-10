@@ -11,21 +11,22 @@ auto-migrated: 1
 
 ---
 
-#OWASP Ciudad de México
+<h1>OWASP Ciudad de México</h1>
+<br>
 Bienvenido a la página principal del capítulo de la Ciudad de México. El líder del capítulo es <a rel="nofollow" class="external text" href="mailto:carlos.sagrero@owasp.org">Carlos Isaac Sagrero Campos</a>. **De clic aquí para unirse a la lista de distribución del capítulo.**
+<br><br>
+<h2>Participación</h2>
+<br>
+La Fundación OWASP (Presentación) es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (Chapter_Leader_Handbook). Conforme a su categoría 501(c)(3) como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el acuerdo de ponente y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.
 
 
-The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers[*](https://github.com/zaproxy/zaproxy#justification). It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
 
-For more videos see the links on the wiki videos page.
 
-  <div class="video-container">
-    <iframe src="//www.youtube.com/embed/ztfgip-UhWw?" allowfullscreen="true" width="640" height="360" frameborder="0"></iframe>
-  </div>
-  
-Interested in a ZAP talk or training event? Not one near you? Contact a [Zap Evangelist](https://github.com/zaproxy/zaproxy/wiki/ZapEvangelists) to arrange one!
 
-For more information about [ZAPping the OWASP Top 10](zappingthetop10) check [here](zappingthetop10).
+
+
+
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
