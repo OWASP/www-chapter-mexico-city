@@ -24,8 +24,8 @@ Bienvenido a la página principal del capítulo de la Ciudad de México. El líd
 La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">(Presentación)</a> es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (<a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Chapter_Leader_Handbook">Chapter_Leader_Handbook</a>). Conforme a su categoría <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/About_OWASP">501(c)(3)</a> como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Speaker_Agreement">acuerdo de ponente</a> y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.
 <br>
 <h2>Eventos Pasados</h2>
-
-
+<br>
+<hr>
 <table>
 <tbody>
   <tr>
@@ -99,7 +99,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 </td></tr></tbody></table>
 
 <table>
-
+<br>
  <h2>OWASP LatamTour 2019 (Cozumel).</h2>
  <br>
  <hr>
@@ -128,9 +128,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <a rel="nofollow" class="external text" href="https://twitter.com/owasp_riviera?lang=es">OWASP Rivera Maya</a>
 <br>
 <br>
-Próximamente ...
 </p>
-</td></tr></tbody></table>
 
 
 
