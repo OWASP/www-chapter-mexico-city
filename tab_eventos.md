@@ -7,6 +7,6 @@ tags: example-tag
 ---
 
 
-lala|lele
-----|----
-dada|sasa
+lala | lele
+---- | ----
+dada | sasa
