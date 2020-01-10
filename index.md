@@ -168,9 +168,9 @@ Si deseas colaborar en los esfuerzos del capítulo OWASP Ciudad de México, pued
       <th style="width: 50%;" colspan="2">Administrador de medios sociales</th>
     </tr>
     <tr>
-      <td style="width: 50%;" colspan="2">Daniel Castrejón Morales<br><a rel="nofollow" class="external text" href="mailto:daniel.morales@owasp.org">Contacto</a>
+      <td style="width: 50%;" colspan="2"><center>Daniel Castrejón Morales<br><a rel="nofollow" class="external text" href="mailto:daniel.morales@owasp.org">Contacto</a></center>
 </td>
-<td style="width: 50%;" colspan="2">Juan Francisco Rojas Sánchez<br><a rel="nofollow" class="external text" href="mailto:juan.rojas@owasp.org">Contacto</a>
+<td style="width: 50%;" colspan="2"><center>Juan Francisco Rojas Sánchez<br><a rel="nofollow" class="external text" href="mailto:juan.rojas@owasp.org">Contacto</a></center>
 </td></tr>
 <tr>
 <th style="width: 50%;" colspan="2">Administrador de contacto
@@ -178,9 +178,9 @@ Si deseas colaborar en los esfuerzos del capítulo OWASP Ciudad de México, pued
 <th style="width: 50%;" colspan="2">Administrador de contacto
 </th></tr>
 <tr>
-<td style="width: 50%;" colspan="2">Edgar Uch Flores<br><a rel="nofollow" class="external text" href="mailto:edgar.flores@owasp.org">Contacto</a>
+<td style="width: 50%;" colspan="2"><center>Edgar Uch Flores</center><br><a rel="nofollow" class="external text" href="mailto:edgar.flores@owasp.org"><center>Contacto</center></a>
 </td>
-<td style="width: 50%;" colspan="2">Hector Manuel Rojas Pérez<br><a rel="nofollow" class="external text" href="mailto:hector.rojas@owasp.org">Contacto</a>
+<td style="width: 50%;" colspan="2"><center>Hector Manuel Rojas Pérez<br><a rel="nofollow" class="external text" href="mailto:hector.rojas@owasp.org">Contacto</a></center>
 </td></tr></tbody></center></table>
 
 <!-- Standard Chapter Page Template
