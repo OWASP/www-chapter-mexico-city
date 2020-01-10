@@ -30,8 +30,9 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <tbody>
   <tr>
     <td> </td>
-    <td><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" class="image"><img alt="Jornada seguridad UTN OWASP MEXICO CITY.jpg" src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" width="570" height="220"></a>
-  </td></tr>
+    <td><a href="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" class="image"><img alt="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" width="570" height="220"></a>
+  </td>
+  </tr>
   <tr>
     <td><b>Evento</b> </td>
     <td> Jornada de Seguridad Informática.</td>
