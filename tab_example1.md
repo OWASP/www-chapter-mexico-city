@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Example1
 layout:  null
 tab: true
 order: 1
