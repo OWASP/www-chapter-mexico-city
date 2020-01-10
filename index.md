@@ -10,18 +10,89 @@ region: Latin America
 auto-migrated: 1
 
 ---
-
-<h1>OWASP Ciudad de México</h1>
+<h1>Bienvenidos</h1>
+<hr>
+<br>
+<h2>OWASP Ciudad de México</h2>
+<hr>
 <br>
 Bienvenido a la página principal del capítulo de la Ciudad de México. El líder del capítulo es <a rel="nofollow" class="external text" href="mailto:carlos.sagrero@owasp.org">Carlos Isaac Sagrero Campos</a>. **De clic aquí para unirse a la lista de distribución del capítulo.**
 <br><br>
 <h2>Participación</h2>
+<hr>
 <br>
-La Fundación OWASP (<a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">(Presentación)</a>) es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (<a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Chapter_Leader_Handbook">Chapter_Leader_Handbook</a>). Conforme a su categoría <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/About_OWASP">501(c)(3)</a> como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Speaker_Agreement">acuerdo de ponente</a> y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.
+La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">(Presentación)</a> es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (<a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Chapter_Leader_Handbook">Chapter_Leader_Handbook</a>). Conforme a su categoría <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/About_OWASP">501(c)(3)</a> como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Speaker_Agreement">acuerdo de ponente</a> y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.
+<br>
+<h2>Eventos Pasados</h2>
 
 
+<table>
+<tbody>
+  <tr>
+    <td> </td>
+    <td><a href="/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" class="image"><img alt="Jornada seguridad UTN OWASP MEXICO CITY.jpg" src="/assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" width="570" height="220"></a>
+  </td></tr>
+  <tr>
+    <td><b>Evento</b> </td>
+    <td> Jornada de Seguridad Informática.</td>
+  </tr>
+  <tr>
+    <td><b>Fecha</b> </td>
+    <td> 15 de marzo de 2019.</td>
+  </tr>
+<tr>
+<td><b>Lugar</b> </td>
+<td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.
+</td></tr>
+<tr>
+<td><b>Talleres</b></td>
+<td>
+</td></tr>
+<tr>
+<td> </td>
+<td>
+<table>
 
+<tbody><tr>
+<td>8:00</td>
+<td><i>Más allá de un ' or 1=1</i></td>
+<td><b>Christian Alberto Cruz Nicolás</b>
+</td></tr>
+<tr>
+<td>10:00</td>
+<td><i>Mi inofensivo Cross-Site Scripting</i></td>
+<td><b>Héctor Manuel Rojas Pérez</b>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><b>Conferencias</b></td>
+<td>
+</td></tr>
+<tr>
+<td> </td>
+<td>
+<table>
 
+<tbody><tr>
+<td>12:00</td>
+<td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
+<td><b>Antonio Rivera Crespo</b>
+</td></tr>
+<tr>
+<td>13:00</td>
+<td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
+<td><b>Carlos Isaac Sagrero Campos</b>
+</td></tr>
+<tr>
+<td>14:00</td>
+<td><i>Retos de la ingeniería inversa en seguridad</i></td>
+<td><b>Edgar Uch Flores</b>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><b>Sitio Web</b> </td>
+<td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
+</td></tr></tbody></table>
 
 
 
