@@ -63,8 +63,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td></td>
-      <td><img src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" ></td>
+      <td colspan="2"><center><img src="assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" alt=""></center></td>
     </tr>
     <tr>
       <td><b>Evento</b> </td>
@@ -178,11 +177,16 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01010.jfif" alt=""></center></td>
+      <td><center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></center></td>
+      <td><center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></center></td>
+    </tr>
+  </tbody>
+</table>
+  
   
 
 <h3>Marzo 2018</h3>
