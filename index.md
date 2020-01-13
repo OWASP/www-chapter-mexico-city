@@ -298,7 +298,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Sitio Web</b></td>
-      <td><a href="http://congresoseguridad.org/main.php">http://congresoseguridad.org/main.php</a></td>
+      <td>http://congresoseguridad.org/main.php</td>
     </tr>
   </tbody>
 </table>
@@ -325,7 +325,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Sitio Web</b></td>
-      <td>http://www.bugcon.org/index.html</td>
+      <td><a href="http://www.bugcon.org/index.html">http://www.bugcon.org/index.html</a></td>
     </tr>
   </tbody>
 </table>
@@ -359,9 +359,58 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
+<h3>Diciembre 2015</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>02/Diciembre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>SoftwareGuru.</td>
+    </tr>
+    <tr>
+      <td><b>Webinar</b></td>
+      <td>Modelo de madurez de aseguramiento de software (Open SAMM).</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Mtro. Juan Pablo Carsi Reyna.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
 
-
-
+<h3>Octubre 2015</h3>
+<hr>
+<br>
+<table>
+  <tbody><center>
+    <tr>
+      <td><b>Evento</b></td>
+      <td><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
+    </tr>
+    <tr>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>22/Octubre/2015 - 23/Octubre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Stand</b></td>
+      <td>OWASP Capítulo Ciudad de México.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Equipo OWASP Ciudad de México.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
 
 
 
