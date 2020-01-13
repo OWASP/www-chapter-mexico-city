@@ -441,7 +441,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><b>Evento</b></td>
+      <td WIDTH="150"><b>Evento</b></td>
       <td><center><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
     </tr>
     <tr>
@@ -769,7 +769,39 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   </tbody>
 </table>
 
-
+<table>
+  <tbody>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_01.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_02.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_03.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_04.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_05.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_06.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_07.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_08.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_09.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_10.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_11.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_12.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_13.jfiff" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_15.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_16.jfif" width="300" height="150" alt=""></center></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Agradecemos a la profesora M. en C. <b>Rafaela Blanca Silva López</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.
 </p>
