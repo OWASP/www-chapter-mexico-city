@@ -200,6 +200,10 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
       <td><center><img src="assets/images/2018/julio/800px-DSC01020.jfif" width="400" height="150" alt=""></center></td>
       <td><center><img src="assets/images/2018/julio/800px-DSC01021.jfif" width="400" height="150" alt=""></center></td>
     </tr>
+    <tr>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01022.jfif" width="400" height="150" alt=""></center></td>
+      <td colspan="2"><center></center></td>
+    </tr>
   </tbody>
 </table>
 <br>
@@ -210,7 +214,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><b>Evento</b></td>
+      <td WIDTH="150"><b>Evento</b></td>
       <td>OWASP LatamTour 2018 Rivera Maya - CONFERENCIAS.</td>
     </tr>
     <tr>
@@ -232,7 +236,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><b>Evento</b></td>
+      <td WIDTH="150"><b>Evento</b></td>
       <td>Jornada Tecnológica de Informática y Sistemas - Instituto Tecnológico de Chilpancingo</td>
     </tr>
     <tr>
