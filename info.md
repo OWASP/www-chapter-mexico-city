@@ -1,10 +1,10 @@
 <!--### Chapter Information
-* Chapter Region
+* Chapter Region-->
 
 ### Information
 * [Hazte miembro](https://www.owasp.org/index.php/Membership)
 * [Únete a nuestra lista de correos](https://groups.google.com/a/owasp.org/forum/#!forum/mexico-city-chapter)
 
-### Social Links
+<!--### Social Links
 * [Meetup](#)
 * [Social Link](#)-->
