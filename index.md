@@ -16,7 +16,7 @@ auto-migrated: 1
 <h2>OWASP Ciudad de México</h2>
 <hr>
 <br>
-123Bienvenido a la página principal del capítulo de la Ciudad de México. El líder del capítulo es <a rel="nofollow" class="external text" href="mailto:carlos.sagrero@owasp.org">Carlos Isaac Sagrero Campos</a>. <a href="https://groups.google.com/a/owasp.org/forum/#!forum/mexico-city-chapter"><b>De clic aquí</b></a> para unirse a la lista de distribución del capítulo.
+Bienvenido a la página principal del capítulo de la Ciudad de México. El líder del capítulo es <a rel="nofollow" class="external text" href="mailto:carlos.sagrero@owasp.org">Carlos Isaac Sagrero Campos</a>. <a href="https://groups.google.com/a/owasp.org/forum/#!forum/mexico-city-chapter"><b>De clic aquí</b></a> para unirse a la lista de distribución del capítulo.
 <br><br>
 <h2>Participación</h2>
 <hr>
