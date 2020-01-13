@@ -1,3 +1,3 @@
 ### Leaders
 
-* abcd[Carlos Isaac Sagrero Campos](mailto:)
+* abcd: [Carlos Isaac Sagrero Campos](mailto:)
