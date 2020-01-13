@@ -177,30 +177,32 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
+<br>
 <table>
   <tbody>
     <tr>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01010.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01011.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01012.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01013.jfif" width="365" height="123" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01010.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01011.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01012.jfif" width="400" height="150" alt=""></center></td>
     </tr>
     <tr>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01014.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01015.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01016.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01017.jfif" width="365" height="123" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01013.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01014.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01015.jfif" width="400" height="150" alt=""></center></td>
     </tr>
     <tr>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01018.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01019.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01020.jfif" width="365" height="123" alt=""></center></td>
-      <td><center><img src="assets/images/2018/julio/800px-DSC01021.jfif" width="365" height="123" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01016.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01017.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01018.jfif" width="400" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01019.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01020.jfif" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/julio/800px-DSC01021.jfif" width="400" height="150" alt=""></center></td>
     </tr>
   </tbody>
 </table>
-  
-  
+<br>
 
 <h3>Marzo 2018</h3>
 <hr>
