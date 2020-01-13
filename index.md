@@ -59,7 +59,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
 <tbody>
   <tr>
-    <td> </td>
+    <td></td>
     <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt="">
     </td>
   </tr>
@@ -77,25 +77,27 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   </tr>
   <tr>
     <td><b>Talleres</b></td>
-    <td></td>
+    <td>
+      <table>
+        <tbody>
+          <tr>
+            <td>8:00</td>
+            <td><i>Más allá de un ' or 1=1</i></td>
+            <td><b>Christian Alberto Cruz Nicolás</b></td>
+          </tr>
+          <tr>
+            <td>10:00</td> 
+            <td><i>Mi inofensivo Cross-Site Scripting</i></td>
+            <td><b>Héctor Manuel Rojas Pérez</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
   </tr>
   <tr>
     <td> </td>
     <td>
-    <table>
-      <tbody>
-        <tr>
-          <td>8:00</td>
-          <td><i>Más allá de un ' or 1=1</i></td>
-          <td><b>Christian Alberto Cruz Nicolás</b></td>
-        </tr>
-        <tr>
-          <td>10:00</td> 
-          <td><i>Mi inofensivo Cross-Site Scripting</i></td>
-          <td><b>Héctor Manuel Rojas Pérez</b></td>
-        </tr>
-      </tbody>
-    </table>
+    
   </td>
     </tr>
     <tr>
