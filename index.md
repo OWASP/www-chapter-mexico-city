@@ -511,6 +511,121 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
+<h3>Mayo 2015</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>25/Mayo/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Intercontinental Presidente Mexico City, México DF.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>OWASP Top Ten para aplicaciones Web y Móviles.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos (aplicaciones Web), Diego Chávez Godinez (Móviles).</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<h3>Diciembre 2014</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>05/Diciembre/2014</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Tecnológico de Estudios Superiores de Ecatepec.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>Anatomía de un ataque de Anonymous.</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Carlos Isaac Sagrero Campos.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>03/Diciembre/2014, 15:00 hrs - 15:30 hrs.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Palacio de Medicina - UNAM.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>Modelo de madurez de aseguramiento de software.</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Carlos Isaac Sagrero Campos.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>03/Diciembre/2014, 10:00 hrs - 12:00 hrs.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>	Universidad Tecnológica de Nezahualcóyotl.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>Presentación OWASP Top 10 2013.</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Diego Chávez Godinez, Juan Francisco Rojas Sánchez.</td>
+    </tr>
+    <tr>
+      <td><b>Asistentes</b></td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+    </tr>
+    <tr>
+      <td><b>Descripción</b></td>
+      <td><li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.</td>
+    </tr>
+    <tr>
+      <td><b>Objetivos</b></td>
+      <td>
+        <li>Presentar el capítulo OWASP Ciudad de México
+        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.
+        <li>Mostrar OWASP Top 10 2013 (demostración en vivo).
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+
 <h2>Social</h2>
   <hr>
   <br>
