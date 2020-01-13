@@ -8,4 +8,4 @@ Administrador de medios sociales: <br> [Juan Francisco Rojas Sánchez](mailto:ju
 Administrador de contacto: <br> [Edgar Uch Flores](mailto:edgar.flores@owasp.org) 
 
 Administrador de contacto: <br> [Hector Manuel Rojas Pérez](mailto:hector.rojas@owasp.org) 
-<br><br><hr>
+<br><br>
