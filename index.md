@@ -29,20 +29,20 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <p>Agradecemos todo el apoyo brindado al capítulo OWASP Ciudad de México a:</p>
 <br>
-<center><img src="assets/images/Logo-Scitum.png" alt=""></td></center>
+<center><img src="assets/images/Logo-Scitum.png" alt=""></center>
 <br>
 <p><b>Agradecimientos especiales</b></p>
 <table>
   <trbody>
     <tr>
-      <td><img src="assets/images/Logo_uama.jpg" alt=""></td>
-      <td><img src="assets/images/Logo-UTN.jpeg" alt=""></td>
-      <td><img src="assets/images/CongresoSeguridadEnComputo2014-UNAM.png" alt=""></td>
+      <td><center><img src="assets/images/Logo_uama.jpg" alt=""></center></td>
+      <td><center><img src="assets/images/Logo-UTN.jpeg" alt=""></center></td>
+      <td><center><img src="assets/images/CongresoSeguridadEnComputo2014-UNAM.png" alt=""></center></td>
     </tr>
     <tr>
-      <td><img src="assets/images/Logo-TESE.jpg" alt=""></td>
-      <td><img src="assets/images/100px-Liquid-nexxus-logo.png" alt=""></td>
-      <td><img src="assets/images/200px-Logo_x25.png" alt=""></td>
+      <td><center><img src="assets/images/Logo-TESE.jpg" alt=""></center></td>
+      <td><center><img src="assets/images/100px-Liquid-nexxus-logo.png" alt=""></center></td>
+      <td><center><img src="assets/images/200px-Logo_x25.png" alt=""></center></td>
     </tr>
   </trbody>
 </table>
