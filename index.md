@@ -586,6 +586,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
+<p>lalala
 <table>
   <tbody>
     <tr>
@@ -617,7 +618,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
       <td>
         <li>Presentar el capítulo OWASP Ciudad de México
         <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.
-        <li>Mostrar OWASP Top 10 2013 (demostración en vivo).
+        <li>Mostrar OWASP Top 10 2013.
       </td>
     </tr>
   </tbody>
@@ -693,6 +694,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   </tbody>
 </table>
 <br>
+
 <table>
   <tbody>
     <tr>
