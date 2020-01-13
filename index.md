@@ -59,8 +59,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
 <tbody>
   <tr>
-    <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt="">
-    </td>
+    <td colspan="2"><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
   </tr>
   <tr>
     <td><b>Evento</b> </td>
