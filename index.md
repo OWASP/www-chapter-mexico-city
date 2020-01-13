@@ -601,7 +601,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
       <td>Presentación OWASP Top 10 2013.</td>
     </tr>
     <tr>
-      <td><b>Ponente</b></td>
+      <td><b>Ponentes</b></td>
       <td>Diego Chávez Godinez, Juan Francisco Rojas Sánchez.</td>
     </tr>
     <tr>
@@ -622,8 +622,107 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
+
+
+
+<p>Agradecemos a la <b>Lic. Gabriela Sánchez Ojeda</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.</p>
 <br>
 <br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>02/Diciembre/2014, 10:00 hrs - 12:00 hrs.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Universidad Tecnológica de Nezahualcóyotl.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>14 meses de observación del Phishing en México.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos, Daniel Castrejón Morales.</td>
+    </tr>
+    <tr>
+      <td><b>Asistentes</b></td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+    </tr>
+    <tr>
+      <td><b>Descripción</b></td>
+      <td><li>Dar a conocer el estudio realizado en México acerca del Phishing.</td>
+    </tr>
+    <tr>
+      <td><b>Objetivos</b></td>
+      <td>
+        <li>Presentar el capítulo OWASP Ciudad de México.
+        <li>Mostrar las campañas de Phishing vigentes en México.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<p>Agradecemos a la <b>Lic. Gabriela Sánchez Ojeda</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.</p>
+<br>
+<br>
+
+<h3>Octubre 2014</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>08/Octubre/2014, 11:00 hrs - 13:00 hrs.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Universidad Autónoma Metropolitana - Unidad Azcapotzalco.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>Presentación OWASP Top 10 2013.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos, Daniel Castrejón Morales.</td>
+    </tr>
+    <tr>
+      <td><b>Asistentes</b></td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+    </tr>
+    <tr>
+      <td><b>Descripción</b></td>
+      <td>
+        <li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.
+      </td>
+    </tr>
+    <tr>
+      <td><b>Objetivos</b></td>
+      <td>
+        <li>Presentar el capítulo OWASP Ciudad de México.
+        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.
+        <li>Mostrar OWASP Top 10 2013 (demostración en vivo).
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<p>Agradecemos a la profesora M. en C. <b>Rafaela Blanca Silva López</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.
+</p>
+
+<br>
+<br>
+
+
+
 
 
 <h2>Social</h2>
