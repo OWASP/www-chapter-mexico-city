@@ -257,7 +257,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_001.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_001.jpeg" width="350" height="150" alt=""></center></td>
       <td><center><img src="assets/images/2018/marzo/687px-ITC-M_003.jpg" width="400" height="150" alt=""></center></td>
       <td><center><img src="assets/images/2018/marzo/800px-ITC-M_002.jpeg" width="400" height="150" alt=""></center></td>
     </tr>
