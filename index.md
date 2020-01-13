@@ -282,23 +282,23 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   <tbody>
     <tr>
       <td><b>Fecha</b></td>
-      <td></td>
+      <td>9 de noviembre de 2016. 11:00 hrs - 16:00 hrs.</td>
     </tr>
     <tr>
       <td><b>Lugar</b></td>
-      <td></td>
+      <td>IPN ESIME Culhuacan, SEPI MISTI.</td>
     </tr>
     <tr>
       <td><b>Taller</b></td>
-      <td></td>
+      <td>Wep Application Penetration Testing.</td>
     </tr>
     <tr>
       <td><b>Ponentes</b></td>
-      <td></td>
+      <td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
     </tr>
     <tr>
       <td><b>Sitio Web</b></td>
-      <td></td>
+      <td>http://congresoseguridad.org/main.php</td>
     </tr>
   </tbody>
 </table>
@@ -308,87 +308,61 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><b></b></td>
-      <td></td>
+      <td><b>Fecha</b></td>
+      <td>10 de noviembre 2016.</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td></td>
+      <td><b>Lugar</b></td>
+      <td>Universidad Nacional Autónoma de México, Torre de Ingeniería -- Aula D</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td></td>
+      <td><b>Taller</b></td>
+      <td>OWASP Top 10 2013.</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td></td>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos.</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td></td>
+      <td><b>Sitio Web</b></td>
+      <td>http://www.bugcon.org/index.html</td>
     </tr>
   </tbody>
 </table>
 <br>
 <br>
-
-<table>
-  <tbody>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<br>
-<table>
-  <tbody>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<br>
-
 
 <h2>Social</h2>
   <hr>
   <br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>10 de noviembre de 2016. 10:00 11:00 hrs.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>IPN ESIME Culhuacan.</td>
+    </tr>
+    <tr>
+      <td><b>Taller</b></td>
+      <td>Hunting.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Murena Myrope Lavin Martínez.</td>
+    </tr>
+    <tr>
+      <td><b>Sitio Web</b></td>
+      <td>http://congresoseguridad.org/main.php</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
 
 A continuación ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
 <br>
