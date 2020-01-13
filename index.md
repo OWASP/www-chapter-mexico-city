@@ -258,18 +258,18 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   <tbody>
     <tr>
       <td><center><img src="assets/images/2018/marzo/450px-ITC-M_001.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_002.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_003.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/687px-ITC-M_003.jpg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_002.jpeg" width="400" height="150" alt=""></center></td>
     </tr>
     <tr>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_004.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_005.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_006.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_004.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_005.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_006.jpeg" width="400" height="150" alt=""></center></td>
     </tr>
     <tr>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_007.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_008.jpeg" width="400" height="150" alt=""></center></td>
-      <td><center><img src="assets/images/2018/marzo/450px-ITC-M_009.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_007.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_008.jpeg" width="400" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2018/marzo/800px-ITC-M_009.jpeg" width="400" height="150" alt=""></center></td>
     </tr>
   </tbody>
 </table>
