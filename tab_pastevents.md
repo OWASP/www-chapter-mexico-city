@@ -1,11 +1,14 @@
 ---
-title: Example
-layout:  null
+
+title: PastEvents
+displaytext: Past Events
+layout: null
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: mexico
+
 ---
 
-## Example
+## Past Events
 
 Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
