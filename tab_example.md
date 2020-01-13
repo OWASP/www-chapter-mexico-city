@@ -1,6 +1,5 @@
 ---
-title: Eventos Pasados
-displaytext: Eventos Pasados
+title: example
 layout:  null
 tab: true
 order: 2
