@@ -411,7 +411,105 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
+<table>
+  <tbody>
+    <tr>
+      <td><b>Evento</b></td>
+      <td><center><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>22/Octubre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Conferencia Magistral</b></td>
+      <td>Modelo de Madurez de Aseguramiento de Software, ¿La solución para evitar que tus aplicaciones sean vulnerables?</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Mtro. Juan Pablo Carsi Reyna.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Auditorio Principal, ESIME Culhuacan.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
 
+<table>
+  <tbody>
+    <tr>
+      <td><b>Evento</b></td>
+      <td><center><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>22/Octubre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Taller</b></td>
+      <td>Herramientas de Hacking para aplicaciones Web, ¿Cómo son utilizadas por los atacantes?</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Carlos Isaac Sagrero Campos.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>ESIME Culhuacan.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>19/Octubre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Conferencia</b></td>
+      <td>OWASP Top 10 - Los 10 riesgos más críticos en Aplicaciones WEB.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Daniel Castrejón, Hector Manuel Rojas Pérez.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>PROSA, México DF.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>06/Octubre/2015.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Colegio de Ciencias y Humanidades Plantel Sur (CCH Sur), México DF.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>14 meses de observación del Phishing en México.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
 
 <h2>Social</h2>
   <hr>
