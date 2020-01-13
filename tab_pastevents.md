@@ -1,9 +1,12 @@
 ---
-title: example
-layout:  null
+
+title: PastEvents
+displaytext: Past Events
+layout: null
 tab: true
 order: 2
 tags: mexico
+
 ---
 
 # Eventos
