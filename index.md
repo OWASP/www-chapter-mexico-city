@@ -76,8 +76,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     <td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.</td>
   </tr>
   <tr>
-    <td WIDTH="50" 
-	    HEIGHT="50"><b>Talleres</b></td>
+    <td WIDTH="150"><b>Talleres</b></td>
     <td>
       <table>
         <tbody>
