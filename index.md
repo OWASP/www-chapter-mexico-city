@@ -56,7 +56,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 
 A continuación ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
 <br>
-<a href="http://www.twitter.com/OWASP_MX_City" rel="nofollow"><img src="180px-Follow-us-on-twitter.png" width="180" height="54" </a>
+<a href="http://www.twitter.com/OWASP_MX_City" rel="nofollow"><img src="assets/images/180px-Follow-us-on-twitter.png" width="180" height="54"> </a>
 <br>
 <br>
 <h2>Soporte y donaciones</h2>
