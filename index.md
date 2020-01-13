@@ -298,7 +298,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Sitio Web</b></td>
-      <td>http://congresoseguridad.org/main.php</td>
+      <td><a href="http://congresoseguridad.org/main.php">http://congresoseguridad.org/main.php</a></td>
     </tr>
   </tbody>
 </table>
