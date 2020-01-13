@@ -96,70 +96,140 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <hr>
 <br>
 <table>
-<tbody>
-  <tr>
-    <td colspan="2"><center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></center></td>
-  </tr>
-  <tr>
-    <td><b>Evento</b> </td>
-    <td> Jornada de Seguridad Informática.</td>
-  </tr>
-  <tr>
-    <td><b>Lugar</b> </td>
-    <td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.</td>
-  </tr>
-  <tr>
-    <td WIDTH="150"><b>Talleres</b></td>
-    <td>
-      <table>
-        <tbody>
-          <tr>
-            <td>8:00</td>
-            <td><i>Más allá de un ' or 1=1</i></td>
-            <td><b>Christian Alberto Cruz Nicolás</b></td>
-          </tr>
-          <tr>
-            <td>10:00</td> 
-            <td><i>Mi inofensivo Cross-Site Scripting</i></td>
-            <td><b>Héctor Manuel Rojas Pérez</b></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Conferencias</b></td>
-    <td>
-      <table>
-        <tbody>
-          <tr>
-            <td>12:00</td>
-            <td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
-            <td><b>Antonio Rivera Crespo</b></td>
-          </tr>
-          <tr>
-            <td>13:00</td>
-            <td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
-            <td><b>Carlos Isaac Sagrero Campos</b></td>
-          </tr>
-          <tr>
-            <td>14:00</td>
-            <td><i>Retos de la ingeniería inversa en seguridad</i></td>
-            <td><b>Edgar Uch Flores</b></td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Sitio Web</b></td>
-    <td><a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td colspan="2"><center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><b>Evento</b> </td>
+      <td> Jornada de Seguridad Informática.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b> </td>
+      <td>  Auditorio de la UTN y Laboratorios de Informática, Universidad Tecnológica de Nezahualcóyotl - División de Informática y Computación.</td>
+    </tr>
+    <tr>
+      <td WIDTH="150"><b>Talleres</b></td>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td>8:00</td>
+              <td><i>Más allá de un ' or 1=1</i></td>
+              <td><b>Christian Alberto Cruz Nicolás</b></td>
+            </tr>
+            <tr>
+              <td>10:00</td> 
+              <td><i>Mi inofensivo Cross-Site Scripting</i></td>
+              <td><b>Héctor Manuel Rojas Pérez</b></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Conferencias</b></td>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td>12:00</td>
+              <td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
+              <td><b>Antonio Rivera Crespo</b></td>
+            </tr>
+            <tr>
+              <td>13:00</td>
+              <td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
+              <td><b>Carlos Isaac Sagrero Campos</b></td>
+            </tr>
+            <tr>
+              <td>14:00</td>
+              <td><i>Retos de la ingeniería inversa en seguridad</i></td>
+              <td><b>Edgar Uch Flores</b></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Sitio Web</b></td>
+      <td><a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a></td>
+    </tr>
   </tbody>
 </table>
 <br>
 
+<h3>Julio 2018</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Universidad Autonoma del Estado de Morelos.</td>
+    </tr>
+    <tr>
+      <td><b>Título</b></td>
+      <td>Herramientas de "hackeo" para aplicaciones Web.</td>
+    </tr>
+    <tr>
+      <td><b>Ponente</b></td>
+      <td>Carlos Isaac Sagrero Campos.</td>
+    </tr>
+  </tbody>
+</table>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+  
 
+<h3>Marzo 2018</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Evento</b></td>
+      <td>OWASP LatamTour 2018 Rivera Maya - CONFERENCIAS.</td>
+    </tr>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>20 y 21 de abril de 2018.</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b></td>
+      <td>Tech Garage, en Cancun, Quintana Roo, Mexico.</td>
+    </tr>
+    <tr>
+      <td><b>Sitio Web</b></td>
+      <td><a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/LatamTour2018#tab=Mexico">OWASP LatamTour 2018 Rivera Maya</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b>Evento</b></td>
+      <td>Jornada Tecnológica de Informática y Sistemas - Instituto Tecnológico de Chilpancingo</td>
+    </tr>
+    <tr>
+      <td><b>Ponencia</b></td>
+      <td>Hacktivismo, anatomía de un ataque de Annonymous.<br>	Lic. Carlos Isaac Sagrero Campos.</td>
+    </tr>
+    <tr>
+      <td><b>Taller</b></td>
+      <td>Hackeando una Aplicación Web en Minutos.<br>Ing. Hector Manuel Rojas Pérez e Ing. Bryan Díaz Esparza.</td>
+    </tr>
+    <tr>
+      <td><b>Fecha</b></td>
+      <td>23 de marzo de 2018.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Social</h2>
   <hr>
