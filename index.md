@@ -395,7 +395,6 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
       <td><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
     </tr>
     <tr>
-    <tr>
       <td><b>Fecha</b></td>
       <td>22/Octubre/2015 - 23/Octubre/2015.</td>
     </tr>
