@@ -586,11 +586,10 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
-<p>lalala
 <table>
   <tbody>
     <tr>
-      <td><b>Fecha</b></td>
+      <td WIDTH="150"><b>Fecha</b></td>
       <td>03/Diciembre/2014, 10:00 hrs - 12:00 hrs.</td>
     </tr>
     <tr>
@@ -734,7 +733,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
   <tbody>
     <tr>
-      <td><b>Fecha</b></td>
+      <td WIDTH="150"><b>Fecha</b></td>
       <td>08/Octubre/2014, 11:00 hrs - 13:00 hrs.</td>
     </tr>
     <tr>
