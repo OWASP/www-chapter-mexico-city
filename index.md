@@ -282,26 +282,107 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   <tbody>
     <tr>
       <td><b>Fecha</b></td>
-	<td>9 de noviembre de 2016. 11:00 hrs - 16:00 hrs.</td>
+      <td></td>
     </tr>
     <tr>
-	<td><b>Lugar</b></td>
-	<td>IPN ESIME Culhuacan, SEPI MISTI.</td>
+      <td><b>Lugar</b></td>
+      <td></td>
     </tr>
     <tr>
       <td><b>Taller</b></td>
-      <td>Wep Application Penetration Testing.</td>
+      <td></td>
     </tr>
     <tr>
       <td><b>Ponentes</b></td>
-      <td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
+      <td></td>
     </tr>
     <tr>
       <td><b>Sitio Web</b></td>
-      <td>http://congresoseguridad.org/main.php</td>
+      <td></td>
     </tr>
-  <tbody>
+  </tbody>
 </table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 <br>
 
 
