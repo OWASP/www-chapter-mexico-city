@@ -332,10 +332,6 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
-<h2>Social</h2>
-  <hr>
-  <br>
-
 <table>
   <tbody>
     <tr>
@@ -363,6 +359,15 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <br>
 
+
+
+
+
+
+
+<h2>Social</h2>
+  <hr>
+  <br>
 
 A continuación ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
 <br>
