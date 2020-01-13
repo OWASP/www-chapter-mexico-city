@@ -23,6 +23,34 @@ Bienvenido a la página principal del capítulo de la Ciudad de México. El líd
 <br>
 La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">(Presentación)</a> es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (<a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Chapter_Leader_Handbook">Chapter_Leader_Handbook</a>). Conforme a su categoría <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/About_OWASP">501(c)(3)</a> como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Speaker_Agreement">acuerdo de ponente</a> y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.
 <br>
+
+<h2>Patrocinadores del Capítulo</h2>
+<hr>
+<br>
+<p>Agradecemos todo el apoyo brindado al capítulo OWASP Ciudad de México a:</p>
+<br>
+<center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td></center>
+<br>
+<p><b>Agradecimientos especiales</b></p>
+<table>
+  <trbody>
+    <tr>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+    </tr>
+    <tr>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+    </tr>
+  </trbody>
+</table>
+<br>
+
+
+
+
 <h2>Eventos Pasados</h2>
 <br>
 <hr>
