@@ -6,7 +6,7 @@ Administrador de eventos y conferencias:
 * [Daniel Castrejón Morales](mailto:daniel.morales@owasp.org)
 
 Administrador de medios sociales: 
-Juan Francisco Rojas Sánchezmailto:juan.rojas@owasp.org
+* [Juan Francisco Rojas Sánchez](mailto:juan.rojas@owasp.org)
 
 Administrador de contacto: 
 * [Edgar Uch Flores](mailto:edgar.flores@owasp.org) 
