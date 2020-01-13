@@ -392,7 +392,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   <tbody>
     <tr>
       <td><b>Evento</b></td>
-      <td><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
+      <td><center><img src="assets/images/Logo_3erCongresoSeguridadInformacion.png" width="200" height="80" alt=""></center></td>
     </tr>
     <tr>
       <td><b>Fecha</b></td>
