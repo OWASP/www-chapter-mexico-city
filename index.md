@@ -611,14 +611,14 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Descripción</b></td>
-      <td><li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.</td>
+      <td><li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.</li></td>
     </tr>
     <tr>
       <td><b>Objetivos</b></td>
       <td>
-        <li>Presentar el capítulo OWASP Ciudad de México
-        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.
-        <li>Mostrar OWASP Top 10 2013.
+        <li>Presentar el capítulo OWASP Ciudad de México</li>
+        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.</li>
+        <li>Mostrar OWASP Top 10 2013.</li>
       </td>
     </tr>
   </tbody>
@@ -678,17 +678,17 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Asistentes</b></td>
-      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</li></td>
     </tr>
     <tr>
       <td><b>Descripción</b></td>
-      <td><li>Dar a conocer el estudio realizado en México acerca del Phishing.</td>
+      <td><li>Dar a conocer el estudio realizado en México acerca del Phishing.</li></td>
     </tr>
     <tr>
       <td><b>Objetivos</b></td>
       <td>
-        <li>Presentar el capítulo OWASP Ciudad de México.
-        <li>Mostrar las campañas de Phishing vigentes en México.
+        <li>Presentar el capítulo OWASP Ciudad de México.</li>
+        <li>Mostrar las campañas de Phishing vigentes en México.</li>
       </td>
     </tr>
   </tbody>
@@ -751,20 +751,20 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Asistentes</b></td>
-      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</li></td>
     </tr>
     <tr>
       <td><b>Descripción</b></td>
       <td>
-        <li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.
+        <li>Dar a conocer el proyecto OWASP a estudiantes que cursan carreras afines a tecnologias de la información, asi como difundir su presencia en nuestro país por medio del capítulo OWASP Ciudad de Mexico.</li>
       </td>
     </tr>
     <tr>
       <td><b>Objetivos</b></td>
       <td>
-        <li>Presentar el capítulo OWASP Ciudad de México.
-        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.
-        <li>Mostrar OWASP Top 10 2013 (demostración en vivo).
+        <li>Presentar el capítulo OWASP Ciudad de México.</li>
+        <li>Concientizar a los asistentes sobre la seguridad de las aplicaciones Web hoy en día.</li>
+        <li>Mostrar OWASP Top 10 2013 (demostración en vivo).</li>
       </td>
     </tr>
   </tbody>
