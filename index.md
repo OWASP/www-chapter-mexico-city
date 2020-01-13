@@ -768,7 +768,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
-
+<br>
 <table>
   <tbody>
     <tr>
@@ -792,7 +792,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
       <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_12.jfif" width="300" height="150" alt=""></center></td>
     </tr>
     <tr>
-      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_13.jfiff" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/octubre/135px-UAMA_081014_13.jfif" width="300" height="150" alt=""></center></td>
       <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_14.jfif" width="300" height="150" alt=""></center></td>
       <td><center><img src="assets/images/2014/octubre/240px-UAMA_081014_15.jfif" width="300" height="150" alt=""></center></td>
     </tr>
