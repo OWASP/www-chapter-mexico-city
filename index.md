@@ -275,85 +275,34 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 </table>
 <br>
 
-<h3>Marzo 2018</h3>
+<h3>Noviembre 2016</h3>
 <hr>
 <br>
 <table>
-	<tbody>
-		<tr>
-			<td><b>Fecha</b></td>
-			<td>9 de noviembre de 2016. 11:00 hrs - 16:00 hrs.</td>
-		</tr>
-		<tr>
-			<td><b>Lugar</b></td>
-			<td>IPN ESIME Culhuacan, SEPI MISTI.</td>
-		</tr>
-		<tr>
-			<td><b>Taller</b></td>
-			<td>Wep Application Penetration Testing.</td>
-		</tr>
-		<tr>
-			<td><b>Ponentes</b></td>
-			<td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
-		</tr>
-		<tr>
-			<td><b>Sitio Web</b></td>
-			<td>http://congresoseguridad.org/main.php</td>
-		</tr>
-	<tbody>
+  <tbody>
+    <tr>
+      <td><b>Fecha</b></td>
+	<td>9 de noviembre de 2016. 11:00 hrs - 16:00 hrs.</td>
+    </tr>
+    <tr>
+	<td><b>Lugar</b></td>
+	<td>IPN ESIME Culhuacan, SEPI MISTI.</td>
+    </tr>
+    <tr>
+      <td><b>Taller</b></td>
+      <td>Wep Application Penetration Testing.</td>
+    </tr>
+    <tr>
+      <td><b>Ponentes</b></td>
+      <td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
+    </tr>
+    <tr>
+      <td><b>Sitio Web</b></td>
+      <td>http://congresoseguridad.org/main.php</td>
+    </tr>
+  <tbody>
 </table>
 <br>
-<br>
-<table>
-	<tbody>
-		<tr>
-			<td><b>Fecha</b></td>
-			<td>10 de noviembre 2016.</td>
-		</tr>
-		<tr>
-			<td><b>Lugar</b></td>
-			<td>Universidad Nacional Autónoma de México, Torre de Ingeniería -- Aula D</td>
-		</tr>
-		<tr>
-			<td><b>Taller</b></td>
-			<td>OWASP Top 10 2013.</td>
-		</tr>
-		<tr>
-			<td><b>Ponentes</b></td>
-			<td>Carlos Isaac Sagrero Campos.</td>
-		</tr>
-		<tr>
-			<td><b>Sitio Web</b></td>
-			<td>http://www.bugcon.org/index.html</td>
-		</tr>
-	<tbody>
-</table>
-<br>
-<br>
-<table>
-	<tbody>
-		<tr>
-			<td><b>Fecha</b></td>
-			<td>10 de noviembre de 2016. 10:00 11:00 hrs.</td>
-		</tr>
-		<tr>
-			<td><b>Lugar</b></td>
-			<td>IPN ESIME Culhuacan.</td>
-		</tr>
-		<tr>
-			<td><b>Taller</b></td>
-			<td>Hunting.</td>
-		</tr>
-		<tr>
-			<td><b>Ponentes</b></td>
-			<td>Murena Myrope Lavin Martínez.</td>
-		</tr>
-		<tr>
-			<td><b>Sitio Web</b></td>
-			<td>http://congresoseguridad.org/main.php</td>
-		</tr>
-	<tbody>
-</table>
 
 
 <h2>Social</h2>
