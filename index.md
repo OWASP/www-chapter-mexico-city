@@ -59,7 +59,6 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <table>
 <tbody>
   <tr>
-    <td></td>
     <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt="">
     </td>
   </tr>
@@ -95,40 +94,35 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </td>
   </tr>
   <tr>
-    <td> </td>
-    <td>
-    
-  </td>
-    </tr>
-    <tr>
-      <td><b>Conferencias</b></td>
-      <td></td>
-  </tr>
-  <tr>
-    <td> </td>
+    <td><b>Conferencias</b></td>
     <td>
       <table>
-
-<tbody><tr>
-<td>12:00</td>
-<td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
-<td><b>Antonio Rivera Crespo</b>
-</td></tr>
-<tr>
-<td>13:00</td>
-<td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
-<td><b>Carlos Isaac Sagrero Campos</b>
-</td></tr>
-<tr>
-<td>14:00</td>
-<td><i>Retos de la ingeniería inversa en seguridad</i></td>
-<td><b>Edgar Uch Flores</b>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td><b>Sitio Web</b> </td>
-<td> <a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a>
-</td></tr></tbody></table>
+        <tbody>
+          <tr>
+            <td>12:00</td>
+            <td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
+            <td><b>Antonio Rivera Crespo</b></td>
+          </tr>
+          <tr>
+            <td>13:00</td>
+            <td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
+            <td><b>Carlos Isaac Sagrero Campos</b></td>
+          </tr>
+          <tr>
+            <td>14:00</td>
+            <td><i>Retos de la ingeniería inversa en seguridad</i></td>
+            <td><b>Edgar Uch Flores</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sitio Web</b></td>
+    <td><a rel="nofollow" class="external text" href="http://www.utn.edu.mx/slider/file/jornada_seguridad.pdf">Agenda de actividades</a></td>
+  </tr>
+  </tbody>
+</table>
 
 <table>
 <br>
