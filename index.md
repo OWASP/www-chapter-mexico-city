@@ -607,7 +607,7 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
     <tr>
       <td><b>Asistentes</b></td>
-      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</td>
+      <td><li>Estudiantes de la Universidad Tecnológia de Nezahualcoyotl.</li></td>
     </tr>
     <tr>
       <td><b>Descripción</b></td>
