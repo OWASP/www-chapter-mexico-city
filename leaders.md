@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Carlos Isaac Sagrero Campos](mailto:)
+* [Carlos Isaac Sagrero Camposs](mailto:)
