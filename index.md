@@ -56,6 +56,45 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <h2>Eventos Pasados</h2>
 <br>
 <hr>
+
+<h3>Mayo 2019</h3>
+<hr>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><img src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" ></td>
+    </tr>
+    <tr>
+      <td><b>Evento</b> </td>
+      <td> OWASP LatamTour 2019 (Cozumel).</td>
+    </tr>
+    <tr>
+      <td><b>Lugar</b> </td>
+      <td>  Centro de Convenciones de Cozumel, en Isla de Cozumel, Quintana Roo, Mexico.</td>
+    </tr>
+    <tr>
+      <td><b>Sitio Web</b> </td>
+      <td> <a rel="nofollow" class="external free" href="https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019">https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019</a></td>
+    </tr>
+    <tr>
+      <td><b>Registro</b></td>
+      <td> La entrada a las conferencias es gratuita con previo registro. <a rel="nofollow" class="external text" href="https://www.eventbrite.com/e/owasp-latam-tour-2019-mexico-tickets-55739358923">REGISTRATE AQUÍ</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Hola comunidad de OWASP Capítulo Ciudad de México, les informamos que ya se ha iniciado la publicación de parte de la agenda para <b>OWASP LATAM TOUR 2019 México</b>, visten la siguiente liga para más información <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/LatamTour2019#tab=M_C3_89XICO">LatamTour2019 - México</a>
+</p><p>Les hacemos una cordial invitación al OWASP LatamTour 2019 - Cozumel, para más información por favor sigan la siguiente cuenta de twitter:
+<a rel="nofollow" class="external text" href="https://twitter.com/owasp_riviera?lang=es">OWASP Rivera Maya</a>
+<br>
+<br>
+</p>
+
+<h3>Marzo 2019</h3>
+<hr>
+<br>
 <table>
 <tbody>
   <tr>
@@ -64,10 +103,6 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   <tr>
     <td><b>Evento</b> </td>
     <td> Jornada de Seguridad Informática.</td>
-  </tr>
-  <tr>
-    <td><b>Fecha</b> </td>
-    <td> 15 de marzo de 2019.</td>
   </tr>
   <tr>
     <td><b>Lugar</b> </td>
@@ -122,38 +157,9 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
   </tr>
   </tbody>
 </table>
+<br>
 
-<table>
-<br>
- <h2>OWASP LatamTour 2019 (Cozumel).</h2>
- <br>
- <hr>
-<tbody><tr>
-<td> </td>
-<td><img src="https://github.com/OWASP/www-chapter-mexico-city/blob/master/assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" width="400" height="225" >
-</td></tr>
-<tr>
-<td><b>Fecha</b> </td>
-<td> 3 y 4 de mayo de 2019.
-</td></tr>
-<tr>
-<td><b>Lugar</b> </td>
-<td>  Centro de Convenciones de Cozumel, en Isla de Cozumel, Quintana Roo, Mexico.
-</td></tr>
-<tr>
-<td><b>Sitio Web</b> </td>
-<td> <a rel="nofollow" class="external free" href="https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019">https://www.owasp.org/index.php/Riviera_Maya#OWASP_Latam_Tour_2019</a>
-</td></tr>
-<tr>
-<td><b>Registro</b></td>
-<td> La entrada a las conferencias es gratuita con previo registro. <a rel="nofollow" class="external text" href="https://www.eventbrite.com/e/owasp-latam-tour-2019-mexico-tickets-55739358923">REGISTRATE AQUÍ</a>
-</td></tr></tbody></table>
-<p>Hola comunidad de OWASP Capítulo Ciudad de México, les informamos que ya se ha iniciado la publicación de parte de la agenda para <b>OWASP LATAM TOUR 2019 México</b>, visten la siguiente liga para más información <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/LatamTour2019#tab=M_C3_89XICO">LatamTour2019 - México</a>
-</p><p>Les hacemos una cordial invitación al OWASP LatamTour 2019 - Cozumel, para más información por favor sigan la siguiente cuenta de twitter:
-<a rel="nofollow" class="external text" href="https://twitter.com/owasp_riviera?lang=es">OWASP Rivera Maya</a>
-<br>
-<br>
-</p>
+
 
 <h2>Social</h2>
   <hr>
