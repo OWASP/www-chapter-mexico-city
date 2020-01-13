@@ -1,3 +1,3 @@
 ### Leaders
 
-* abcd: [Carlos Isaac Sagrero Campos](mailto:carlos.sagrero@owasp.org)
+* Líder del capítulo: [Carlos Isaac Sagrero Campos](mailto:carlos.sagrero@owasp.org)
