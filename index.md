@@ -29,20 +29,20 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
 <br>
 <p>Agradecemos todo el apoyo brindado al capítulo OWASP Ciudad de México a:</p>
 <br>
-<center><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td></center>
+<center><img src="assets/images/Logo-Scitum.png" alt=""></td></center>
 <br>
 <p><b>Agradecimientos especiales</b></p>
 <table>
   <trbody>
     <tr>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Logo_uama.jpg" alt=""></td>
+      <td><img src="assets/images/Logo-UTN.jpeg" alt=""></td>
+      <td><img src="assets/images/CongresoSeguridadEnComputo2014-UNAM.png" alt=""></td>
     </tr>
     <tr>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
-      <td><img src="assets/images/Jornada_seguridad_UTN_OWASP_MEXICO_CITY.jpg" alt=""></td>
+      <td><img src="assets/images/Logo-TESE.jpg" alt=""></td>
+      <td><img src="assets/images/100px-Liquid-nexxus-logo.png" alt=""></td>
+      <td><img src="assets/images/200px-Logo_x25.png" alt=""></td>
     </tr>
   </trbody>
 </table>
