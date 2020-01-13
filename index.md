@@ -622,9 +622,37 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
-
-
-
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/1/00UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/01UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/04UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/1/05UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/06UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/07UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/1/08UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/09UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/10UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/1/11UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/12UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/13UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/1/14UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/15UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/1/16UTN_03Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 <p>Agradecemos a la <b>Lic. Gabriela Sánchez Ojeda</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.</p>
 <br>
 <br>
@@ -664,8 +692,35 @@ La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.g
     </tr>
   </tbody>
 </table>
-
-
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-00UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-03UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-04UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-05UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-06UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-07UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-08UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-09UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-10UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-11UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-12UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-13UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+    </tr>
+    <tr>
+      <td><center><img src="assets/images/2014/diciembre/2/240px-14UTN_02Dic14.jfif" width="300" height="150" alt=""></center></td>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Agradecemos a la <b>Lic. Gabriela Sánchez Ojeda</b> su apoyo en la divulgación y coordinación dentro de la universidad para llevar acabo esta plática.</p>
 <br>
