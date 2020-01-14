@@ -40,7 +40,6 @@ tags: example-tag
 </table>
 <br>
 <br>
-</p>
 
 <h3>Marzo 2019</h3>
 <hr>
