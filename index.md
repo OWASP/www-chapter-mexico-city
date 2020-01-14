@@ -54,7 +54,7 @@ Bienvenido a la página principal del capítulo de la Ciudad de México. El líd
   <hr>
   <br>
 
-A continuación ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
+A continuación, ponemos a su disposición nuestras redes sociales donde podrán estar informados acerca de las actividades de **OWASP Ciudad de México**:
 <br>
 <a href="http://www.twitter.com/OWASP_MX_City" rel="nofollow"><img src="assets/images/180px-Follow-us-on-twitter.png" width="180" height="54"> </a>
 <br>
