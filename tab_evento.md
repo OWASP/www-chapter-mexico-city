@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Evento
 layout:  null
 tab: true
 order: 1
