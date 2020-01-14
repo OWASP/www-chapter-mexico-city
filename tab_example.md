@@ -68,12 +68,10 @@ tags: example-tag
         <table>
           <tbody>
             <tr>
-              <td>8:00</td>
               <td><i>Más allá de un ' or 1=1</i></td>
               <td><b>Christian Alberto Cruz Nicolás</b></td>
             </tr>
             <tr>
-              <td>10:00</td> 
               <td><i>Mi inofensivo Cross-Site Scripting</i></td>
               <td><b>Héctor Manuel Rojas Pérez</b></td>
             </tr>
@@ -87,17 +85,14 @@ tags: example-tag
         <table>
           <tbody>
             <tr>
-              <td>12:00</td>
               <td><i>Ser un Web Application Penetration Tester Mitos y realidades</i></td>
               <td><b>Antonio Rivera Crespo</b></td>
             </tr>
             <tr>
-              <td>13:00</td>
               <td><i>Utilizando Reflection para volver una aplicación Java Zombi</i></td>
               <td><b>Carlos Isaac Sagrero Campos</b></td>
             </tr>
             <tr>
-              <td>14:00</td>
               <td><i>Retos de la ingeniería inversa en seguridad</i></td>
               <td><b>Edgar Uch Flores</b></td>
             </tr>
