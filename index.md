@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Mexico City
-site_side: true
-tags: mexico
-level: 3
+tags: example-tag
+level: 0
+
 region: Latin America
 
 auto-migrated: 1
