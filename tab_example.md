@@ -1,9 +1,9 @@
 ---
-title: Eventos
+title: Example
 layout:  null
 tab: true
-order: 4
-tags: Eventos
+order: 1
+tags: example-tag
 ---
 
 ## Eventos 
