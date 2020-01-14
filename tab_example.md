@@ -38,10 +38,6 @@ tags: example-tag
     </tr>
   </tbody>
 </table>
-
-<p>Hola comunidad de OWASP Capítulo Ciudad de México, les informamos que ya se ha iniciado la publicación de parte de la agenda para <b>OWASP LATAM TOUR 2019 México</b>, visten la siguiente liga para más información <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/LatamTour2019#tab=M_C3_89XICO">LatamTour2019 - México</a>
-</p><p>Les hacemos una cordial invitación al OWASP LatamTour 2019 - Cozumel, para más información por favor sigan la siguiente cuenta de twitter:
-<a rel="nofollow" class="external text" href="https://twitter.com/owasp_riviera?lang=es">OWASP Rivera Maya</a>
 <br>
 <br>
 </p>
@@ -246,10 +242,6 @@ tags: example-tag
       <td><b>Ponentes</b></td>
       <td>Carlos Isaac Sagrero Campos, Edgar Uch Flores.</td>
     </tr>
-    <tr>
-      <td><b>Sitio Web</b></td>
-      <td>http://congresoseguridad.org/main.php</td>
-    </tr>
   </tbody>
 </table>
 <br>
@@ -299,10 +291,6 @@ tags: example-tag
     <tr>
       <td><b>Ponentes</b></td>
       <td>Murena Myrope Lavin Martínez.</td>
-    </tr>
-    <tr>
-      <td><b>Sitio Web</b></td>
-      <td>http://congresoseguridad.org/main.php</td>
     </tr>
   </tbody>
 </table>
