@@ -5,7 +5,7 @@ title: OWASP Mexico City
 tags: example-tag
 level: 0
 
-region: Latin America
+region: North America
 
 
 ---
