@@ -21,7 +21,7 @@ tags: example-tag
       <td colspan="2"><center><img src="assets/images/LatamAtHome.jpg" alt=""></center></td>
     </tr>
     <tr>
-      <td WIDTH="150"><b>Evento</b> </td>
+      <td WIDTH="125"><b>Evento</b> </td>
       <td> OWASP LATAM@Home 2020.</td>
     </tr>
     <tr>
