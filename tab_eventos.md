@@ -18,7 +18,7 @@ tags: example-tag
 <table>
   <tbody>
     <tr>
-      <td colspan="2"><center><img src="assets/images/Owasp_Latam_Tour_2019_v1_Logo.jpg" alt=""></center></td>
+      <td colspan="2"><center><img src="assets/images/LatamAtHome.jpg" alt=""></center></td>
     </tr>
     <tr>
       <td><b>Evento</b> </td>
