@@ -43,7 +43,7 @@ tags: example-tag
 
 <br>
 <hr>
-<h3>Mayo 2019</h3>
+<h3>Mayo 2019</h3> Not OWASP Event
 <hr>
 <br>
 <table>
@@ -72,7 +72,7 @@ tags: example-tag
 <br>
 <br>
 
-<h3>Marzo 2019</h3>
+<h3>Marzo 2019</h3> Not OWASP event
 <hr>
 <br>
 <table>
