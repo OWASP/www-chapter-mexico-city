@@ -43,7 +43,7 @@ tags: example-tag
 
 <br>
 <hr>
-<h3>Mayo 2019</h3> Not OWASP Event
+<h3>Mayo 2019</h3> 
 <hr>
 <br>
 <table>
