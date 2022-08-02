@@ -1,19 +1,10 @@
+
 ---
 
 layout: col-sidebar
 title: OWASP Mexico City
 tags: example-tag
-level: 0
-
 region: North America
-
-
----
-
-layout: col-sidebar
-title: OWASP Bishkek
-tags: example-tag
-region: Asia
 meetup-group:
 
 ---
