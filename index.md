@@ -27,7 +27,8 @@ OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enf
 </div>
 
 ## Welcome
-Include some information here about your chapter
+
+OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgacion, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
