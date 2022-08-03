@@ -8,4 +8,4 @@ Cualquier información relacionada con el OWASP Capítulo Ciudad de México ser�
 ### Social Links
 * [Meetup]()
 * [Twiter](https://twitter.com/owaspcdmx)
-* [youtube](https://youtube.com/h0n3yp0t)
+* [youtube](https://www.youtube.com/channel/UCqTCmrLzBxIaSGBXITaPvrw)
