@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Mexico City
-tags: example-tag
+tags: México_city, cdmx, CDMX, IPN, ESIME, Culhucán
 region: North America
 meetup-group:
 
@@ -10,7 +10,7 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an ejemplo of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgacion, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
