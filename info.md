@@ -3,8 +3,9 @@
 
 ### Information
 
+Cualquier información relacionada con el OWASP Capítulo Ciudad de México será publicada en este medio o en las siguientes redes sociales:
 
 ### Social Links
 * [Meetup]()
-* [Twiter]()
+* [Twiter](twitter.com)
 * [youtube]()
