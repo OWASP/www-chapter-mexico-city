@@ -10,7 +10,7 @@ meetup-group:
 
 <div style='color:red;'>
 
-OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgacion, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
+OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgacion, la conscienciación y la investigación en el ámbito de la Seguridad de la Información, cyberseguridad y todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
