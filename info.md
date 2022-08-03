@@ -7,5 +7,5 @@ Cualquier información relacionada con el OWASP Capítulo Ciudad de México ser�
 
 ### Social Links
 * [Meetup]()
-* [Twiter](twitter.com)
+* [Twiter](url:https://twitter.com/owaspcdmx)
 * [youtube]()
