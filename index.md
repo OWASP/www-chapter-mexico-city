@@ -17,7 +17,7 @@ OWASP es una fundación sin fines de lucro, que tiene como finalidad mejorar la 
 
 Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Política de los Capítulos/Chapters Policy](/www-policy/operational/chapters). Las contribuciones financieras deberán sólo ser hechas por los canales autorizados mediante pagos en línea. 
 
-Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/projects/), [Local Chapters](/chapters/), [Eventos](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, y [Community Slack Channel](https://owasp.slack.com/). Ponemos énfasis en la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender entorno a la seguridad en aplicaciones, para la red e incluso para construir tu propia reputación como experto. Adicionalmente te invitamos a formar parte como [miembro/become a member](/membership/) o realizar [donativos](/donate/) y apoyar nuestro trabajo. 
+Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/projects/), [Local Chapters](/chapters/), [Eventos](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), y [Community Slack Channel](https://owasp.slack.com/). Ponemos énfasis en la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender entorno a la seguridad en aplicaciones, para la red e incluso para construir tu propia reputación como experto. Adicionalmente te invitamos a formar parte como [miembro/become a member](/membership/) o realizar [donativos](/donate/) y apoyar nuestro trabajo. 
 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
