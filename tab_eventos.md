@@ -3,7 +3,7 @@ title: Eventos de OWASP Capítulo CDMX
 layout:  null
 tab: true
 order: 1
-tags: congreso seguridad congresoseguridad ipn esime cualhuacán
+tags:
 ---
 
 ## Eventos
