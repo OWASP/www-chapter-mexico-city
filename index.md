@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Mexico City
-tags: México_city, cdmx, CDMX, IPN, ESIME, Culhuacán
+tags: 
 region: North America
 meetup-group:
 
