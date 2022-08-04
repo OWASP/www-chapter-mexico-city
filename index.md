@@ -13,7 +13,7 @@ meetup-group:
 OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgación, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y cyberseguridad, así como todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
 
 ## Participation
-OWASP es una fundación sin fines de lucro, que tiene como finalidad mejorar la seguridad del sfotware. Todos los proyectos, herramientas, documentos, foros y capítulos son gratuitos y abiertos a cualquier persona interesada en fortalecer la seguridad de aplicaciones. 
+OWASP es una fundación sin fines de lucro, que tiene como finalidad mejorar la seguridad del software. Todos los proyectos, herramientas, documentos, foros y capítulos son gratuitos y abiertos a cualquier persona interesada en fortalecer la seguridad de aplicaciones. 
 
 Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Política de los Capítulos/Chapters Policy](/www-policy/operational/chapters). Las contribuciones financieras deberán sólo ser hechas por los canales autorizados mediante pagos en línea. 
 
