@@ -1,6 +1,6 @@
 ---
 title: Eventos
-layout: null
+layout: Event
 tab: true
 order: 1
 tags: congresoseguridad ipn esime
