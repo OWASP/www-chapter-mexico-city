@@ -1,5 +1,5 @@
 ---
-title: Eventos de OWASP Capítulo CDMX
+title: EventosOWASP_CDMX
 layout:  null
 tab: true
 order: 1
