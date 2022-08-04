@@ -6,7 +6,7 @@ order: 1
 tags:
 ---
 
-## Eventos
+## Events
 
 Aquí serán publicados los próximos eventos de OWASP Capítulo CDMX
 
