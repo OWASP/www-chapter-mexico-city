@@ -1,6 +1,7 @@
 ---
-title: Eventos
+title: Events
 layout: null
+displaytext: Eventos
 tab: true
 order: 2
 tags: example-tag
