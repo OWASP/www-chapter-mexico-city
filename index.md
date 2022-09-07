@@ -7,6 +7,15 @@ region: North America
 meetup-group:
 
 ---
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2"><center><img src="assets/images/OWASP_CDMX.png" alt=""></center></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 ## Welcome
 
