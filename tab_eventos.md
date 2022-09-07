@@ -2,7 +2,7 @@
 title: Eventos
 layout: null
 tab: true
-order: 1
+order: 2
 tags: example-tag
 ---
 
@@ -15,7 +15,7 @@ tags: example-tag
 <table>
   <tbody>
     <tr>
-      <td colspan="2"><center><img src="assets/images/logoha.jpg" alt=""></center></td>
+      <td colspan="2"><center><img src="assets/images/OWASP_CDMX.png" alt=""></center></td>
     </tr>
     <tr>
       <td WIDTH="150"><b></b> </td>
