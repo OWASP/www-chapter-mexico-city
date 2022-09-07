@@ -7,10 +7,6 @@ tags: example-tag
 ---
 
 ## Eventos
-
-Aquí serán publicados los próximos eventos de OWASP Capítulo CDMX
-
-
 <br>
 <hr>
 <h3>Septiembre 2022</h3>
@@ -39,3 +35,5 @@ Aquí serán publicados los próximos eventos de OWASP Capítulo CDMX
       <td> Informes y registro. <a rel="nofollow" class="external text" href="http://www.eventbrite.com"> Da click aquí</a></td>
     </tr>
   </tbody>
+</table>
+<br>
