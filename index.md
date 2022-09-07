@@ -36,13 +36,12 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
       <td colspan="2"><center><img src="assets/images/OWASP_CDMX.png" alt=""></center></td>
     </tr>
     <tr>
-      <td WIDTH="150"><b></b> </td>
-      <td WIDTH="125"><b>OWASP_CDMX 2022</b> </td>
-      <td> </td>
+      <td WIDTH="250"><b></b> </td>
+      <td WIDTH="250"><b>OWASP_CDMX 2022</b> </td>
     </tr>
     <tr>
       <td><b>Lugar</b> </td>
-      <td>  Universidad Panamericana.</td>
+      <td>Universidad Panamericana. </td>
     </tr>
     <tr>
       <td><b>Sitio Web</b> </td>
@@ -50,7 +49,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
     </tr>
     <tr>
       <td><b>Registro</b></td>
-      <td> Informes y registro. <a rel="nofollow" class="external text" href="http://www.eventbrite.com"> Da click aquí</a></td>
+      <td> Informes y registro. <a rel="nofollow" class="external text" href="http://www.eventbrite.com"> Click aquí</a></td>
     </tr>
   </tbody>
 </table>
