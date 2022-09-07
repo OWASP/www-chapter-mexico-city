@@ -17,7 +17,7 @@ meetup-group:
 </table>
 <br>
 
-## Welcome
+## ¡Bienvenido!
 
 OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgación, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y cyberseguridad, así como todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
 
@@ -49,15 +49,15 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
       <td WIDTH="250"><b>OWASP_CDMX 2022</b> </td>
     </tr>
     <tr>
-      <td><b>Lugar</b> </td>
+      <td><b>Lugar:</b> </td>
       <td>Universidad Panamericana. </td>
     </tr>
     <tr>
-      <td><b>Sitio Web</b> </td>
+      <td><b>Dirección Web del evento:</b> </td>
       <td> <a rel="nofollow" class="external free" href="https://owasp.org/www-chapter-mexico-city/">https://owasp.org/www-chapter-mexico-city/</a></td>
     </tr>
     <tr>
-      <td><b>Registro</b></td>
+      <td><b>Registro:</b></td>
       <td> Informes y registro. <a rel="nofollow" class="external text" href="http://www.eventbrite.com"> Click aquí</a></td>
     </tr>
   </tbody>
