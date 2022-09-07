@@ -45,8 +45,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
       <td colspan="2"><center><img src="assets/images/OWASP_CDMX.png" alt=""></center></td>
     </tr>
     <tr>
-      <td WIDTH="250"><b></b> </td>
-      <td WIDTH="250"><b>OWASP_CDMX 2022</b> </td>
+      <td><b></b> </td>
+      <td><b>OWASP_CDMX 2022</b> </td>
     </tr>
     <tr>
       <td><b>Lugar:</b> </td>
