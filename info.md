@@ -1,12 +1,14 @@
 <!--### Chapter Information
 * Chapter Region-->
 
-### Information
-
-Cualquier información relacionada con el OWASP Capítulo Ciudad de México será publicada en este medio o en las siguientes redes sociales:
+### Información
+* [Hazte miembro](https://www.owasp.org/index.php/Membership)
+* [Únete al capítulo](https://groups.google.com/a/owasp.org/forum/#!forum/mexico-city-chapter)
 
 ### Social Links
-
-* [Meetup]()
+* [Meetup](https://www.meetup.com/owasp-mexico-city-meetup-group/)
+* [Facebook](https://www.facebook.com/profile.php?id=100085296677988)
 * [YouTube](https://youtube.com/channel/UCOQRgcOQ-AOQh1F-2-BrAAA)
 * [Twitter](https://twitter.com/owasp_cdmx?t=Y2EhrThcvl_Cb3sGMs2zjQ&s=09)
+* [YouTube](https://youtube.com/channel/UCOQRgcOQ-AOQh1F-2-BrAAA)
+* [Tiktok](https://www.tiktok.com/@owasp_cdmx?_t=8VSdcgCqrgc&_r=1)
