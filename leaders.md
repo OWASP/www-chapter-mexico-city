@@ -1,7 +1,10 @@
 ### Leaders
-* [Elsa Alejandra Estrada](mailto:elsa.estrada@owasp.org)
-* [Mara Patricia Ramírez](mailto:mara.ramirez@owasp.org)
-* [Diana Benitez Mejia](diana.benitez@owasp.org)
-* [Jade Zacatenco](mailto:jade.zacatenco@owasp.org)
-* [Leslie Lara](mailto:leslie.lara@owasp.org)
-* [Alejandro Zacatenco](mailto:alejandro.zacatenco@owasp.org)
+
+Contacto:
+
+* International OWASP Chapter contact: [Diana Benitez](diana.benitez@owasp.org)
+* Latin America OWASP Chapter contact: [Elsa Estrada](mailto:elsa.estrada@owasp.org)
+* Academic contact: [Mara Ramírez](mailto:mara.ramirez@owasp.org)
+* Media & Content design: [Jade Zacatenco](mailto:jade.zacatenco@owasp.org)
+* Social Media manager: [Leslie Lara](mailto:leslie.lara@owasp.org)
+* Speaker: [Alejandro Zacatenco](mailto:alejandro.zacatenco@owasp.org)
