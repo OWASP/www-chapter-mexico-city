@@ -1,11 +1,12 @@
 ---
-title: Events
+title: events
+displaytext: events
 layout: null
-displaytext: Eventos
 tab: true
 order: 2
-tags: example-tag
+tags: cdmx
 ---
+
 
 ## Eventos
 <br>
