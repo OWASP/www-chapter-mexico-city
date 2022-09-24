@@ -6,7 +6,7 @@
 * [Únete al capítulo](https://groups.google.com/a/owasp.org)
 
 ### Social Links
-* [Meetup](https://www.meetup.com)
+* [Meetup](https://www.meetup.com/owasp-mexico-city-chapter/)
 * [Facebook](https://www.facebook.com/profile.php?id=100085296677988)
 * [YouTube](https://youtube.com/channel/UCOQRgcOQ-AOQh1F-2-BrAAA)
 * [Twitter](https://twitter.com/owasp_cdmx?t=Y2EhrThcvl_Cb3sGMs2zjQ&s=09)
