@@ -25,5 +25,28 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+2023 UPCOMING EVENT: "Análisis de vulnerabilidades web con OWASP" Workshop
+Lugar: CDMX
+Fecha: 6 de octubre de 2023.
+¡Más detalles próximamente!
+
 {% include chapter_events.html group=page.meetup-group %}
 ---
+
+OTHER UPCOMING EVENTS ARROUND THE GLOBE:
+
+2023 Global AppSec Singapore, October 4-5, 2023 https://singapore.globalappsec.org/
+
+2023 Global AppSec Washington, DC October 30 - November 3, 2023 https://dc.globalappsec.org/
+
+OWASP Italy Day, September 11, 2023 https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023
+
+September Virtual Career Fair EDT September 28, 2023 https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n
+
+OWASP Poland Day October 4, 2023 https://owasp-poland.day/
+
+October Virtual Career Fair SGT, October 11, 2023 https://owasp.org/events/career_fair/
+
+OWASP LASCON 2023 October 24-27, 2023 https://lascon.org/
+
+OWASP BeNeLux Days November 23-24, 2023 https://www.owaspbenelux.eu/
