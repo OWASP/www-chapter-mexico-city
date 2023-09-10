@@ -1,8 +1,8 @@
 ---
 
-layout: col-sidebar
 title: NextEvent
 displaytext: Next Event
+layout: null 
 tab: true
 order: 1
 tags: Mexico City, CDMX
