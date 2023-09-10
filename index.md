@@ -27,7 +27,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 2023 UPCOMING EVENT: 
 
-"Análisis de vulnerabilidades web con OWASP" Workshop 
+Workshop "Análisis de vulnerabilidades web con OWASP" 
+  
      Lugar: CDMX
      Fecha: 6 de octubre de 2023.
      ¡Más detalles próximamente!
@@ -35,7 +36,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 {% include chapter_events.html group=page.meetup-group %}
 ---
 
-OTHER UPCOMING EVENTS ARROUND THE GLOBE:
+## OTHER UPCOMING EVENTS ARROUND THE GLOBE:
 
 2023 Global AppSec Singapore, October 4-5, 2023 https://singapore.globalappsec.org/
 
