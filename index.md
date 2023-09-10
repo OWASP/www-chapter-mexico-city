@@ -2,8 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Mexico City
+site_side: true
 tags: 
+level: 3
 region: North America
+country: Mexico
 meetup-group: owasp-mexico-city-chapter
 
 ---
