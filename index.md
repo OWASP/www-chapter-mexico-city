@@ -27,13 +27,13 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 2023 UPCOMING EVENTS : 
 
-Workshop "Análisis de vulnerabilidades web con OWASP" 
+# Workshop "Análisis de vulnerabilidades web con OWASP" 
   
      Lugar: CDMX
      Fecha: 6 de octubre de 2023.
      ¡Más detalles próximamente!
 
-Chapter meeting upcoming....
+# Chapter meeting upcoming....
 
 
 {% include chapter_events.html group=page.meetup-group %}
