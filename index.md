@@ -33,7 +33,7 @@ Workshop "Análisis de vulnerabilidades web con OWASP"
      Fecha: 6 de octubre de 2023.
      ¡Más detalles próximamente!
 
-Chapter meeting upcoming
+Chapter meeting upcoming....
 
 
 {% include chapter_events.html group=page.meetup-group %}
