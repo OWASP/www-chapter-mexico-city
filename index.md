@@ -39,7 +39,7 @@ Also, a Chapter meeting upcoming....
 {% include chapter_events.html group=page.meetup-group %}
 ---
 
-## OTHER UPCOMING EVENTS ARROUND THE GLOBE:
+## OTHER UPCOMING EVENTS AROUND THE GLOBE:
 
 OWASP Italy Day, September 11, 2023 https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023
 
