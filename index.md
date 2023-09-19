@@ -40,8 +40,6 @@ Also, a Chapter meeting upcoming....
 
 ## OTHER UPCOMING EVENTS AROUND THE GLOBE:
 
-OWASP Italy Day, September 11, 2023 https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023
-
 September Virtual Career Fair EDT September 28, 2023 https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n
 
 OWASP Poland Day October 4, 2023 https://owasp-poland.day/
