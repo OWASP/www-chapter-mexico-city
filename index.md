@@ -29,10 +29,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Workshop "Análisis de vulnerabilidades web con OWASP" 
   
-     Lugar: CDMX
-     Fecha: 6 de octubre de 2023.
-     ¡Más detalles próximamente!
 
+<img src="/assets/images/workshop.jpg"> 
 Also, a Chapter meeting upcoming....
 
 
