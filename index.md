@@ -9,8 +9,9 @@ meetup-group: owasp-mexico-city-chapter
 ---
 
 
-<div align="center"><img src="assets/images/OWASP_CDMX.png"></div>
+<div align="center"><img src="assets/images/OWASP_CDMX.png" width="1080" height="1080"></div>
 
+  
 ## ¡Bienvenido!
 
 OWASP Capítulo Ciudad de México, dentro de sus objetivos, busca unificar y enfocar los esfuerzos de distintas disciplinas para lograr la divulgación, la conscienciación y la investigación en el ámbito de la Seguridad de la Información y cyberseguridad, así como todas aquellas actividades relacionadas a éstas, mediante la realización de conferencias, charlas, talleres y actividades de investigación y desarrollo.
