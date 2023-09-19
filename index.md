@@ -9,7 +9,7 @@ meetup-group: owasp-mexico-city-chapter
 ---
 
 
-<div align="center"><img src="assets/images/OWASP_CDMX.png"  width="3222" height="1301"></div>
+<div align="center"><img src="assets/images/OWASP_CDMX.png"></div>
 
   
 ## ¡Bienvenido!
