@@ -9,7 +9,7 @@ meetup-group: owasp-mexico-city-chapter
 ---
 
 
-<div align="left"><img src="assets/images/OWASP_CDMX.png" width="1080" height="1080"></div>
+<div align="center"><img src="assets/images/OWASP_CDMX.png" width="1080" height="1080"></div>
 
   
 ## ¡Bienvenido!
@@ -30,8 +30,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Workshop "Análisis de vulnerabilidades web con OWASP" 
   
+<div align="center"><img src="assets/images/workshop.jpg" width="1080" height="1080"></div>
 
-<img src="/assets/images/workshop.jpg"> 
 Also, a Chapter meeting upcoming....
 
 
