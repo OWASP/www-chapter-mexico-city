@@ -30,7 +30,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 Workshop "Análisis de vulnerabilidades web con OWASP" 
   
-<div align="center"><img src="assets/images/workshop.jpg" width="1080" height="1080"></div>
+<div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
 Also, a Chapter meeting upcoming....
 
