@@ -4,3 +4,4 @@
 * [Alejandro Zacatenco](mailto:alejandro.zacatenco@owasp.org)
 * [Diana Benítez](mailto:diana.benitez@owasp.org)
 * [Victor Mondragón](mailto:victor.mondragon@owasp.org)
+* [Gabriela Garcia](mailto:gabriela.garcia@owasp.org)
