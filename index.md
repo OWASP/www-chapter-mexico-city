@@ -32,6 +32,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 27 de octubre- Online Chapter meeting!!! SAVE THE DATE!!!
 
 
+
 ##2023 CDMX CHAPTER LAST EVENTS:
 
 Workshop "Análisis de vulnerabilidades web con OWASP" 
@@ -42,6 +43,7 @@ Slides <a href="assets/AVOWASP-CSI23.pdf">del workshop </a>
 
 {% include chapter_events.html group=page.meetup-group %}
 ---
+
 
 ## OTHER UPCOMING EVENTS AROUND THE GLOBE:
 
