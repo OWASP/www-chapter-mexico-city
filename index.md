@@ -27,27 +27,23 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-2023 UPCOMING EVENTS : 
+2023 CDMX CHAPTER UPCOMING EVENTS : 
+
+27 de octubre- Online Chapter meeting!!! SAVE THE DATE!!!
+
+
+2023 CDMX CHAPTER LAST EVENTS:
 
 Workshop "Análisis de vulnerabilidades web con OWASP" 
   
 <div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
-
-Also, a Chapter meeting upcoming....
+Slides del workshop <a href="assets/AVOWASP-CSI23.pdf">
 
 
 {% include chapter_events.html group=page.meetup-group %}
 ---
 
 ## OTHER UPCOMING EVENTS AROUND THE GLOBE:
-
-September Virtual Career Fair EDT September 28, 2023 https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n
-
-OWASP Poland Day October 4, 2023 https://owasp-poland.day/
-
-2023 Global AppSec Singapore, October 4-5, 2023 https://singapore.globalappsec.org/
-
-October Virtual Career Fair SGT, October 11, 2023 https://owasp.org/events/career_fair/
 
 OWASP LASCON 2023 October 24-27, 2023 https://lascon.org/
 
