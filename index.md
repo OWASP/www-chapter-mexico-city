@@ -35,10 +35,10 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 ##2023 CDMX CHAPTER LAST EVENTS:
 
-Workshop "Análisis de vulnerabilidades web con OWASP" 
+Workshop "Análisis de vulnerabilidades web con OWASP" <a href="assets/AVOWASP-CSI23.pdf">  Slides del workshop </a>
   
 <div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
-Slides <a href="assets/AVOWASP-CSI23.pdf">del workshop </a>
+
 
 
 {% include chapter_events.html group=page.meetup-group %}
