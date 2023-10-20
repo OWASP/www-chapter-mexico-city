@@ -27,13 +27,13 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-##2023 CDMX CHAPTER UPCOMING EVENTS : 
+2023 CDMX CHAPTER UPCOMING EVENTS : 
 
 27 de octubre- Online Chapter meeting!!! SAVE THE DATE!!!
 
 
 
-##2023 CDMX CHAPTER LAST EVENTS:
+2023 CDMX CHAPTER LAST EVENTS:
 
 Workshop "Análisis de vulnerabilidades web con OWASP" <a href="assets/AVOWASP-CSI23.pdf">  Slides del workshop </a>
   
