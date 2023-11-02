@@ -29,7 +29,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 ## 2023 CDMX CHAPTER UPCOMING EVENTS : 
 
-27 de octubre- Online Chapter meeting!!! SAVE THE DATE!!!
+Acompáñanos este 4 de octubre en nuestro primer CHAPTER MEETING:
+<div align="center"><img src="assets/images/juiceshop1123.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
 
 
