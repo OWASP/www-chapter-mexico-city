@@ -29,7 +29,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 ## 2023 CDMX CHAPTER UPCOMING EVENTS : 
 
-Acompáñanos este 4 de octubre en nuestro primer CHAPTER MEETING:
+Acompáñanos este 4 de noviembre en nuestro primer CHAPTER MEETING:
 <div align="center"><img src="assets/images/juiceshop1123.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
 
