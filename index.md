@@ -36,7 +36,7 @@ Keep connected!
 ## 2023 CDMX CHAPTER LAST EVENTS:
 
 ## Chapter meetings:
-El pasado sábado 4 de noviembre celebramos nuestro primer CHAPTER MEETING. <a href="assets/Chapter meeting - JuiceShop -OWASP_CDMX.pdf">  Slides del workshop </a>
+El pasado sábado 4 de noviembre celebramos nuestro primer CHAPTER MEETING. <a href="assets/Chapter meeting -  JuiceShop -OWASP_CDMX.pdf">  Slides del workshop </a>
 <div align="center"><img src="assets/images/juiceshop1123.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
 
