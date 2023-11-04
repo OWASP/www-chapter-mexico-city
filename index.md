@@ -35,12 +35,12 @@ Keep connected!
 
 ## 2023 CDMX CHAPTER LAST EVENTS:
 
-##Chapter meetings:
+## Chapter meetings:
 El pasado sábado 4 de noviembre celebramos nuestro primer CHAPTER MEETING. <a href="assets/Chapter meeting - JuiceShop -OWASP_CDMX.pdf">  Slides del workshop </a>
 <div align="center"><img src="assets/images/juiceshop1123.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
 
-##Workshops:
+## Workshops:
 El 6 de octubre, se impartió el Workshop "Análisis de vulnerabilidades web con OWASP" en el Congreso de Seguridad de la Información IPN 2023 <a href="assets/AVOWASP-CSI23.pdf">  Slides del workshop </a>
   
 <div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
