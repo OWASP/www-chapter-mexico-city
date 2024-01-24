@@ -41,7 +41,10 @@ El pasado sábado 4 de noviembre celebramos nuestro primer CHAPTER MEETING. <a h
 
 
 ## Workshops:
-El 6 de octubre, se impartió el Workshop "Análisis de vulnerabilidades web con OWASP" en el Congreso de Seguridad de la Información IPN 2023 <a href="assets/AVOWASP-CSI23.pdf">  Slides del workshop </a>
+El 30 de noviembre de 2023 el capítulo OWASP-CDMX impartió el "Happy path de desarrollo seguro con OWASP"
+<div align="center"><img src="assets/images/happypath30-11-23.jpg" style="max-width:100%;width:auto;height:auto;"></div>
+
+El 6 de octubre de 2023, se impartió el Workshop "Análisis de vulnerabilidades web con OWASP" en el Congreso de Seguridad de la Información IPN 2023 <a href="assets/AVOWASP-CSI23.pdf">  Slides del workshop </a>
   
 <div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
 
