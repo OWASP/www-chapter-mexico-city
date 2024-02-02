@@ -52,9 +52,3 @@ El 6 de octubre de 2023, se impartió el Workshop "Análisis de vulnerabilidades
 
 {% include chapter_events.html group=page.meetup-group %}
 ---
-
-
-## OTHER UPCOMING EVENTS AROUND THE GLOBE:
-2023 Global AppSec Washington, DC October 30 - November 3, 2023 https://dc.globalappsec.org/
-
-OWASP BeNeLux Days November 23-24, 2023 https://www.owaspbenelux.eu/
