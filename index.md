@@ -6,7 +6,9 @@ tags:
 region: North America
 country: Mexico
 meetup-group: owasp-mexico-city-chapter
-
+level: 3
+site_side: true
+altfooter: true
 ---
 
 <div align="center"><img src="assets/images/OWASP_CDMX.png"></div>
