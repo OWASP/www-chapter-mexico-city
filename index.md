@@ -10,32 +10,6 @@ meetup-group: owasp-mexico-city-chapter
 ---
 
 <div align="center"><img src="assets/images/OWASP_CDMX.png"></div>
-
-<nav class="sub-nav" role="navigation" aria-label="navigate page tabs">
-  <ul role="tablist">
-    <li>
-        <a href="#div-main" id="main-link" class="tab-link" role="tab" aria-selected="true" aria-controls="main">Principal</a>
-    </li>
-    <li>
-        <a href="#div-nextevents" id="nextevents-link" class="tab-link" role="tab" aria-selected="true" aria-controls="nextevents">Eventos próximos</a>
-    </li>
-    <li>
-        <a href="#div-pastevents" id="pastevents-link" class="tab-link current" role="tab" aria-selected="false" aria-controls="pastevents">Eventos pasados</a>
-    </li>
-  </ul>
-</nav>
-
-<div id="main" class="page-body tab" role="tabpanel" aria-labelledby="main-link" tabindex="0">
-  <section id="sec-main" class="page-body">
-    Sección Principal
-  </section>
-  <section id="sec-nextevents" class="page-body tab-hidden">
-    Sección Eventos próximos
-  </section>
-  <section id="sec-pastevents" class="page-body tab-hidden">
-    Sección Eventos pasados
-  </section>
-</div>
   
 ## ¡Bienvenido!
 
