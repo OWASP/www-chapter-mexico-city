@@ -25,15 +25,17 @@ meetup-group: owasp-mexico-city-chapter
   </ul>
 </nav>
 
-<section id="sec-main">
-  Sección Principal
-</section>
-<section id="sec-nextevents">
-  Sección Eventos próximos
-</section>
-<section id="sec-pastevents">
-  Sección Eventos pasados
-</section>
+<div id="main" class="page-body tab" role="tabpanel" aria-labelledby="main-link" tabindex="0">
+  <section id="sec-main" class="page-body">
+    Sección Principal
+  </section>
+  <section id="sec-nextevents" class="page-body tab-hidden">
+    Sección Eventos próximos
+  </section>
+  <section id="sec-pastevents" class="page-body tab-hidden">
+    Sección Eventos pasados
+  </section>
+</div>
   
 ## ¡Bienvenido!
 
