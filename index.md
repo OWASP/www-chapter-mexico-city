@@ -25,8 +25,7 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 ## Próximos meetings 
 
-Programamos nuestros meetings en el Meetup [OWASP Mexico City Chapter](https://www.meetup.com/owasp-mexico-city-chapter/)
+Programamos nuestras reuniones en Meetup [OWASP Mexico City Chapter](https://www.meetup.com/owasp-mexico-city-chapter/).
+Nuestros meetings son abiertos al público en general.
 
 {% include chapter_events.html group=page.meetup-group %}
-
-Nuestros meetings son abiertos al público en general.
