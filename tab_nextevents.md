@@ -9,6 +9,5 @@ tags: chapter-mexico-city
 
 ## Eventos del 2024
 
-El próximo chapter meeting será en el mes de agosto, en los próximos días publicaremos la fecha!
-Our next chapter meeting will be on August 2024, stay tunned!
+Nos vemos el próximo sábado 10 de agosto de 2023 a las 16;30 hrs (hora CDMX).
 <div align="center"><img src="assets/images/aprendeseg.jpeg" style="max-width:100%;width:auto;height:auto;"></div>
