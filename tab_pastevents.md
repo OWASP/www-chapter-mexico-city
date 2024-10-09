@@ -10,8 +10,10 @@ tags: chapter-mexico-city
 
 ## Meetings del Capítulo
 
-Sábado 13 de julio de 2024 Chapter leaders meeting - En la reunión se planeó el próximo chapter meeting.
+Sábado 10 de agosto de 2024. Se realizó el CHAPTER MEETING: "Aprende seguridad con OWASP. Beneficios de ser miembro de la comunidad."
+<div align="center"><img src="assets/images/aprendeseg.jpeg" style="max-width:50%"></div>
 
+Sábado 13 de julio de 2024. Se llevó a cabo un Chapter leaders meeting para coenzar la planeación del próximo chapter meeting.
 
 Sábado 4 de noviembre de 2023. Celebramos nuestro primer CHAPTER MEETING. [Aprender análisis de vulnerabilidades con OWASP Juice Shop](assets/Chapter meeting -  JuiceShop -OWASP_CDMX.pdf).
 <div align="center"><img src="assets/images/juiceshop1123.jpg" style="max-width:100%;width:auto;height:auto;"></div>
@@ -24,3 +26,6 @@ Sábado 4 de noviembre de 2023. Celebramos nuestro primer CHAPTER MEETING. [Apre
 6 de octubre de 2023. Se impartió el workshop [Análisis de vulnerabilidades web con OWASP](assets/AVOWASP-CSI23.pdf) en el Congreso de Seguridad de la Información del IPN.
   
 <div align="center"><img src="assets/images/workshop.jpg" style="max-width:100%;width:auto;height:auto;"></div>
+
+
+
