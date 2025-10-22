@@ -1,0 +1,28 @@
+leaders:
+  - name: Elsa Estrada
+    email: elsa.estrada@owasp.org
+  - name: Alejandro Zacatenco
+    email: alejandro.zacatenco@owasp.org
+    github: alexzac
+  - name: Diana Benítez
+    email: diana.benitez@owasp.org
+  - name: Victor Mondragón
+    email: victor.mondragon@owasp.org
+location:
+  country: Mexico
+  country_code: MX
+  region: Ciudad de México
+  city: Mexico City
+  latitude: 19.4326296
+  longitude: -99.1331785
+meetup_group: owasp-mexico-city-chapter
+name: OWASP Mexico City
+repositories:
+  - name: www-chapter-mexico-city
+    url: https://github.com/OWASP/www-chapter-mexico-city
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-mexico-city
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-mexico-city
